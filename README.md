@@ -4,8 +4,8 @@ It is not in the proliferation of papers that one finds resilience, but in the d
 Just as a sea of volumes does not grant wisdom, true power transcends the mere abundance of texts, residing instead in the profound comprehension and contemplation embedded within each word.
 
 ## Contents  
-0. [King of Papers](#0-King of Papers)
-1. [Fragrance of Papers](#1-Fragrance of Papers)
+0. [King of Papers](#0-King-of-Papers)
+1. [Fragrance of Papers](#1-Fragrance-of-Papers)
 
 
 
