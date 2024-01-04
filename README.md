@@ -26,6 +26,7 @@ How to write papers.
 How to choose a journal/conference, submit, revise, pay, and publish for papers.
 ## 3.1 Selected Journals and Conferences
 - https://github.com/lcylmhlcy/Magazine_rank_newest
+
 **Computer Vision**
 - TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF-A)
 - TIP: IEEE Transactions on Image Processing (SCI一区 Top, CCF-A)
