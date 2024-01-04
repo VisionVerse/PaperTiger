@@ -60,7 +60,7 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 - https://ccfddl.top/
 - https://twitter.com/DlCountdown
 
-**Computer Vision**
+**Computer Vision and Artificial Intelligence**
 - TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF-A)
 - TIP: IEEE Transactions on Image Processing (SCI一区 Top, CCF-A)
 - PR: Pattern Recognition (SCI一区 Top, CCF-B)
