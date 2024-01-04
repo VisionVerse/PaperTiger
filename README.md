@@ -10,7 +10,7 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 
 # 0. King of Papers
-Stand on the shoulders of giants.
+Stand on the shoulders of Daolaos.
 
 
 # 1. Fragrance of Papers
