@@ -23,5 +23,6 @@ How to write.
 
 # 3. 货与帝王家
 How to choose a journal/conference, submit, revise, pay, and publish.
+## 3.1 Selected journals and conferences
 
 
