@@ -5,7 +5,7 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 ## 提纲挈领  
 0. [道生万物](#0-道生万物)
-1. [RGB-T Salient Object Detection](#2-RGB-T-Salient-Object-Detection)
+1. [道生万物](#1-道生万物)
 
 
 
