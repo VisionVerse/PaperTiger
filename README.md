@@ -22,9 +22,6 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 
 # 3. 货与帝王家
-期刊选择、投稿、返修、缴费、发表。
+如何选择期刊、投稿、返修、缴费、发表。
 
 
-
-
-# 4. 
