@@ -26,3 +26,5 @@ How to choose a journal/conference, submit, revise, pay, and publish.
 ## 3.1 Selected journals and conferences
 
 
+# 4. 朝为田舍郎
+How to find a loaf of bread.
