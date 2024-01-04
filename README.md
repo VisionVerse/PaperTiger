@@ -14,7 +14,7 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 
 # 1. 读书破万卷
-如何读论文、如何找创新点。
+如何读论文、找创新点。
 
 
 # 2. 下笔如有神
