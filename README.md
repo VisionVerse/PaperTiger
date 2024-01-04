@@ -10,16 +10,47 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 
 
+
+
+
 # 0. King of Papers
 Stand on the shoulders of Dalaos.
+
+
+
+
+
+
+
+
 
 
 # 1. Fragrance of Papers
 How to read papers and find ideas.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # 2. Planting of Papers
 How to write papers.
+- [IEEE Template](https://template-selector.ieee.org/secure/templateSelector/publicationType)
+
+
+
+
+
+
+
 
 
 # 3. Bloom of Papers
@@ -44,14 +75,23 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 - ESWA: Expert Systems with Applications (SCI一区 Top, CCF-C)
 
 **Remote Sensing**
-- ISPRS Journal of Photogrammetry and Remote Sensing
+- ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top)
 - TGARS: IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF-B)
-- Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
+- JSTARS: Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
+- 
 
 
 **Medical Image Analysis**
-- IEEE Journal of Biomedical and Health Informatics
+- IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
 - IEEE Transactions on Medical Imaging
+
+
+
+
+
+
+
+
 
 
 # 4. Beauty of Papers
