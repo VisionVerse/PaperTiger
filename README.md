@@ -10,19 +10,19 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 
 # 0. King of Papers
-Stand on the shoulders of Daolaos.
+Stand on the shoulders of Dalaos.
 
 
 # 1. Fragrance of Papers
-How to read papers and find innovative points.
+How to read papers and find ideas.
 
 
 # 2. Planting of Papers
-How to write.
+How to write papers.
 
 
 # 3. Bloom of Papers
-How to choose a journal/conference, submit, revise, pay, and publish.
+How to choose a journal/conference, submit, revise, pay, and publish for papers.
 ## 3.1 Selected Journals and Conferences
 
 
