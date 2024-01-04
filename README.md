@@ -26,6 +26,8 @@ How to write papers.
 How to choose a journal/conference, submit, revise, pay, and publish for papers.
 ## 3.1 Selected Journals and Conferences
 - https://github.com/lcylmhlcy/Magazine_rank_newest
+- https://ccfddl.top/
+- https://twitter.com/DlCountdown
 
 **Computer Vision**
 - TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF-A)
@@ -44,7 +46,7 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 **Remote Sensing**
 - ISPRS Journal of Photogrammetry and Remote Sensing
 - TGARS: IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF-B)
-- 
+- Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
 
 
 **Medical Image Analysis**
