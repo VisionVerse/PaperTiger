@@ -25,6 +25,30 @@ How to write papers.
 # 3. Bloom of Papers
 How to choose a journal/conference, submit, revise, pay, and publish for papers.
 ## 3.1 Selected Journals and Conferences
+- https://github.com/lcylmhlcy/Magazine_rank_newest
+**Computer Vision**
+- TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF-A)
+- TIP: IEEE Transactions on Image Processing (SCI一区 Top, CCF-A)
+- PR: Pattern Recognition (SCI一区 Top, CCF-B)
+- TCSVT: IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF-B)
+- TMM: IEEE Transactions on Multimedia (SCI一区 Top, CCF-B)
+- TNNLS: IEEE Transactions on Neural Networks and learning systems (SCI一区 Top, CCF-B)
+- TITS: IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF-B)
+- KBS: Knowledge-Based Systems (SCI一区 Top, CCF-C)
+- Neural Networks (SCI一区 Top, CCF-B)
+- Information Sciences (SCI一区 Top, CCF-B)
+- Information Fusion
+- ESWA: Expert Systems with Applications (SCI一区 Top, CCF-C)
+
+**Remote Sensing**
+- ISPRS Journal of Photogrammetry and Remote Sensing
+- TGARS: IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF-B)
+- 
+
+
+**Medical Image Analysis**
+- 
+
 
 
 # 4. Beauty of Papers
