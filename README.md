@@ -71,7 +71,7 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 - KBS: Knowledge-Based Systems (SCI一区 Top, CCF-C)
 - Neural Networks (SCI一区 Top, CCF-B)
 - Information Sciences (SCI一区 Top, CCF-B)
-- Information Fusion
+- Information Fusion (SCI一区 Top, CCF-A)
 - ESWA: Expert Systems with Applications (SCI一区 Top, CCF-C)
 
 **Remote Sensing**
@@ -82,8 +82,9 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 
 
 **Medical Image Analysis**
+- IEEE Transactions on Medical Imaging (SCI一区 Top)
 - IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
-- IEEE Transactions on Medical Imaging
+
 
 
 
