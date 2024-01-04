@@ -48,8 +48,8 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 
 
 **Medical Image Analysis**
-- 
-
+- IEEE Journal of Biomedical and Health Informatics
+- IEEE Transactions on Medical Imaging
 
 
 # 4. Beauty of Papers
