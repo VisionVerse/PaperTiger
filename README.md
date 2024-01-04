@@ -78,7 +78,7 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 - ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top)
 - TGARS: IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF-B)
 - JSTARS: Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
-- 
+- GRSL: Geoscience and Remote Sensing Letters (SCI三区)
 
 
 **Medical Image Analysis**
