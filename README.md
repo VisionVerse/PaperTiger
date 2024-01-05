@@ -71,7 +71,7 @@ We will continue to update this repository :running::running::running:
 - TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF-A)
 - TIP: IEEE Transactions on Image Processing (SCI一区 Top, CCF-A)
 - PR: Pattern Recognition (SCI一区 Top, CCF-B)
-- TCSVT: IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF-B)
+- [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF-B)
 - TMM: IEEE Transactions on Multimedia (SCI一区 Top, CCF-B)
 - TNNLS: IEEE Transactions on Neural Networks and learning systems (SCI一区 Top, CCF-B)
 - TITS: IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF-B)
