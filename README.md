@@ -14,7 +14,7 @@ We will continue to update this repository :running::running::running:
 1. **Read**: [Fragrance of Papers](#1-Fragrance-of-Papers)
 2. **Write**: [Planting of Papers](#2-Planting-of-Papers)
 3. **Accept**: [Bloom of Papers](#3-Bloom-of-Papers)
-4. [Beauty of Papers](#4-Beauty-of-Papers){:target="_blank"}
+4. [Beauty of Papers](#4-Beauty-of-Papers)
 
 
 
@@ -23,7 +23,8 @@ We will continue to update this repository :running::running::running:
 
 # 0. King of Papers
 :heart_eyes_cat:Stand on the shoulders of Dalaos.
-- [Ming-Ming Cheng](https://mmcheng.net/publications/)
+- [Ming-Ming Cheng](https://mmcheng.net/publications/){:target="_blank"}
+- [example](http://yinping4256.github.io){:target="_blank"}
 
 
 
