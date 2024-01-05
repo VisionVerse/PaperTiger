@@ -59,6 +59,7 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 - https://github.com/lcylmhlcy/Magazine_rank_newest
 - https://ccfddl.top/
 - https://twitter.com/DlCountdown
+- [LetPub最新SCI期刊影响因子查询及投稿分析系统](https://www.letpub.com.cn/index.php?page=journalapp)
 
 **Computer Vision and Artificial Intelligence**
 - TPAMI: IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF-A)
@@ -78,6 +79,7 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 - ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top)
 - TGARS: IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF-B)
 - JSTARS: Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
+- RS: Remote Sensing (SCI二区)
 - GRSL: Geoscience and Remote Sensing Letters (SCI三区)
 
 
