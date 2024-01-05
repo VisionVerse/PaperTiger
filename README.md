@@ -101,11 +101,13 @@ We will continue to update this repository :running::running::running:
 - BSPC: Biomedical Signal Processing and Control (SCI二区)
 
 
+## 3.2 Rebuttal
+- [Rebuttal Template for CV Conference](https://github.com/guanyingc/cv_rebuttal_template)
 
 
-
-
-
+## 3.3 Proofs and Pay 
+- [IEEE Proofs](https://authorgateway.ieee.org/ag/public/landing.jsp)
+- [IEEE Copyright](https://roa.copyright.com/rs-ui-web/manage_account/orders/view-search)
 
 
 
