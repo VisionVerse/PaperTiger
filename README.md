@@ -77,7 +77,7 @@ We will continue to update this repository :running::running::running:
 - [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF-B)
 - [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF-B)
 - [TNNLS](https://mc.manuscriptcentral.com/tnnls): IEEE Transactions on Neural Networks and learning systems (SCI一区 Top, CCF-B)
-- TITS: IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF-B)
+- [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF-B)
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF-C)
 - Neural Networks (SCI一区 Top, CCF-B)
 - Information Sciences (SCI一区 Top, CCF-B)
