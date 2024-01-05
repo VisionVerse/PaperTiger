@@ -4,6 +4,11 @@ Amidst the allure of a vast collection of papers, the true essence of strength r
 It is not in the proliferation of papers that one finds resilience, but in the discernment cultivated through thoughtful examination. 
 Just as a sea of volumes does not grant wisdom, true power transcends the mere abundance of texts, residing instead in the profound comprehension and contemplation embedded within each word.
 
+Feel free to star and fork~ :star2::star2::star2:    
+We will continue to update this repository :running::running::running:
+
+
+
 ## Contents  
 0. [King of Papers](#0-King-of-Papers)
 1. [Fragrance of Papers](#1-Fragrance-of-Papers)
@@ -107,3 +112,9 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 # 4. Beauty of Papers
 :cat2:How to find a loaf of bread.
+
+------
+
+:clap::clap::clap:Congratulations! Your article has been published in the Early Access area on IEEE Xplore.
+
+:clap::clap::clap:We are pleased to accept your manuscript 'Paper Tiger is All You Need' for publication in Nature.
