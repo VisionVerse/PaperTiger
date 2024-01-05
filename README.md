@@ -14,7 +14,7 @@ We will continue to update this repository :running::running::running:
 1. **Read**: [Fragrance of Papers](#1-Fragrance-of-Papers)
 2. **Write**: [Planting of Papers](#2-Planting-of-Papers)
 3. **Accept**: [Bloom of Papers](#3-Bloom-of-Papers)
-4. [Beauty of Papers](#4-Beauty-of-Papers)
+4. [Beauty of Papers](#4-Beauty-of-Papers){:target="_blank"}
 
 
 
