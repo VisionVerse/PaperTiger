@@ -1,4 +1,4 @@
-# Paper Tiger is All You Need.
+# Paper Tiger :heart_eyes_cat: is All You Need.
 ![avatar](/paper_tiger.png)
 Amidst the allure of a vast collection of papers, the true essence of strength remains elusive. 
 It is not in the proliferation of papers that one finds resilience, but in the discernment cultivated through thoughtful examination. 
@@ -14,7 +14,7 @@ Just as a sea of volumes does not grant wisdom, true power transcends the mere a
 
 
 # 0. King of Papers
-Stand on the shoulders of Dalaos.
+:heart_eyes_cat:Stand on the shoulders of Dalaos.
 
 
 
@@ -26,7 +26,7 @@ Stand on the shoulders of Dalaos.
 
 
 # 1. Fragrance of Papers
-How to read papers and find ideas.
+:smiley_cat:How to read papers and find ideas.
 
 
 
@@ -42,7 +42,7 @@ How to read papers and find ideas.
 
 
 # 2. Planting of Papers
-How to write papers.
+:smile_cat:How to write papers.
 - [IEEE Template](https://template-selector.ieee.org/secure/templateSelector/publicationType)
 
 
@@ -54,7 +54,7 @@ How to write papers.
 
 
 # 3. Bloom of Papers
-How to choose a journal/conference, submit, revise, pay, and publish for papers.
+:kissing_cat:How to choose a journal/conference, submit, revise, pay, and publish for papers.
 ## 3.1 Selected Journals and Conferences
 - https://github.com/lcylmhlcy/Magazine_rank_newest
 - CCF推荐：[国际刊物](https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/), [中文刊物](https://www.ccf.org.cn/ccftjgjxskwml/)
@@ -106,4 +106,4 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 
 
 # 4. Beauty of Papers
-How to find a loaf of bread.
+:cat2:How to find a loaf of bread.
