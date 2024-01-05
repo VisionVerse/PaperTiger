@@ -75,6 +75,10 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 - Information Sciences (SCI一区 Top, CCF-B)
 - Information Fusion (SCI一区 Top, CCF-A)
 - ESWA: Expert Systems with Applications (SCI一区 Top, CCF-C)
+- TIV: IEEE Transactions on Intelligent Vehicles (SCI一区)
+- SP: Signal Processing (SCI二区)
+- SPL: IEEE Signal Processing Letters (SCI二区)
+- PRL: Pattern Recognition Letters (SCI三区, CCF-C)
 
 **Remote Sensing**
 - ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top)
@@ -86,8 +90,10 @@ How to choose a journal/conference, submit, revise, pay, and publish for papers.
 
 
 **Medical Image Analysis**
-- IEEE Transactions on Medical Imaging (SCI一区 Top)
-- IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
+- TMI: IEEE Transactions on Medical Imaging (SCI一区 Top)
+- JBHI: IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
+- CIBM: Computers in Biology and Medicine (SCI二区 Top)
+- BSPC: Biomedical Signal Processing and Control (SCI二区)
 
 
 
