@@ -23,8 +23,7 @@ We will continue to update this repository :running::running::running:
 
 # 0. King of Papers
 :heart_eyes_cat:Stand on the shoulders of Dalaos.
-- [Ming-Ming Cheng](https://mmcheng.net/publications/){:target="_blank"}
-- [example](http://yinping4256.github.io){:target="_blank"}
+- [Ming-Ming Cheng](https://mmcheng.net/publications/)
 
 
 
