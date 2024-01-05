@@ -57,7 +57,7 @@ How to write papers.
 How to choose a journal/conference, submit, revise, pay, and publish for papers.
 ## 3.1 Selected Journals and Conferences
 - https://github.com/lcylmhlcy/Magazine_rank_newest
-- https://ccfddl.top/
+- [CCF Conference Deadlines](https://ccfddl.top/)
 - https://twitter.com/DlCountdown
 - [LetPub最新SCI期刊影响因子查询及投稿分析系统](https://www.letpub.com.cn/index.php?page=journalapp)
 
