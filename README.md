@@ -84,7 +84,8 @@ We will continue to update this repository :running::running::running:
 - Information Fusion (SCI一区 Top, CCF-A)
 - ESWA: Expert Systems with Applications (SCI一区 Top, CCF-C)
 - [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区)
-- SP: Signal Processing (SCI二区)
+- [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top)
+- [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区)
 - SPL: IEEE Signal Processing Letters (SCI二区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF-C)
 
@@ -101,8 +102,8 @@ We will continue to update this repository :running::running::running:
 - Nature Biomedical Engineering (Nature子刊, SCI一区 Top)
 - MEDIA: Medical Image Analysis (SCI一区 Top)
 - [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top)
-- JBHI: IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
-- CIBM: Computers in Biology and Medicine (SCI二区 Top)
+- [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
+- [CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top)
 - BSPC: Biomedical Signal Processing and Control (SCI二区)
 
 
