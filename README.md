@@ -88,6 +88,7 @@ We will continue to update this repository :running::running::running:
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区)
 - SPL: IEEE Signal Processing Letters (SCI二区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF-C)
+- [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
 
 **Remote Sensing**
 - [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top)
