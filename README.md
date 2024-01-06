@@ -53,6 +53,9 @@ We will continue to update this repository :running::running::running:
 :smile_cat:How to write papers.
 - [IEEE Template](https://template-selector.ieee.org/secure/templateSelector/publicationType)
 
+  ## Latex Tools
+- [Table](https://www.tablesgenerator.com/latex_tables)
+- [LaTeX数学符号大全](https://blog.csdn.net/LCCFlccf/article/details/89643585)
 
 
 
