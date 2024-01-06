@@ -92,6 +92,7 @@ We will continue to update this repository :running::running::running:
 **Remote Sensing**
 - [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top)
 - [TGRS](https://mc.manuscriptcentral.com/tgrs): IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF-B)
+- [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top)
 - GSIS：Geo-spatial Information Science (SCI一区)
 - [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区)
