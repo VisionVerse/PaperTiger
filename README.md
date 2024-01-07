@@ -90,6 +90,7 @@ We will continue to update this repository :running::running::running:
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区)
 - SPL: IEEE Signal Processing Letters (SCI二区)
+- CVIU: Computer Vision and Image Understanding (SCI三区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF-C)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
 
