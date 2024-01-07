@@ -127,6 +127,8 @@ We will continue to update this repository :running::running::running:
 
 # 4. Beauty of Papers
 :cat2:How to find a loaf of bread.
+- [Times Scholar](https://www.sdxz2050.com/)
+
 
 ------
 
