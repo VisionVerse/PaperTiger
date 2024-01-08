@@ -90,6 +90,7 @@ We will continue to update this repository :running::running::running:
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区)
 - SPL: IEEE Signal Processing Letters (SCI二区)
+- [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - CVIU: Computer Vision and Image Understanding (SCI三区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF-C)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
@@ -100,8 +101,8 @@ We will continue to update this repository :running::running::running:
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top)
 - GSIS：Geo-spatial Information Science (SCI一区)
 - [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
-- [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区)
-- GRSL: Geoscience and Remote Sensing Letters (SCI三区)
+- [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~)
+- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome)
 
 
