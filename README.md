@@ -114,7 +114,7 @@ We will continue to update this repository :running::running::running:
 - [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top)
 - [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
 - [CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top)
-- BSPC: Biomedical Signal Processing and Control (SCI二区)
+- [BSPC](https://www2.cloud.editorialmanager.com/bspc/default2.aspx): Biomedical Signal Processing and Control (SCI二区)
 
 
 ## 3.2 Rebuttal
