@@ -92,7 +92,7 @@ We will continue to update this repository :running::running::running:
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区)
 - SPL: IEEE Signal Processing Letters (SCI二区)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
-- CVIU: Computer Vision and Image Understanding (SCI三区)
+- [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
 - PRL: Pattern Recognition Letters (SCI三区, CCF-C)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
