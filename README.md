@@ -109,7 +109,7 @@ We will continue to update this repository :running::running::running:
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~), [主页](https://www.mdpi.com/journal/remotesensing)
 - GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区)
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
-- IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025](https://www.grss-ieee.org/conferences/future-igarss/igarss-2025-call-for-proposal/)
+- IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
 
 
 **Medical Image Analysis**
