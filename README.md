@@ -76,6 +76,7 @@ We will continue to update this repository :running::running::running:
 **Computer Vision and Artificial Intelligence**
 - [TPAMI](https://mc.manuscriptcentral.com/tpami-cs): IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF-A)
 - [TIP](https://mc.manuscriptcentral.com/tip-ieee): IEEE Transactions on Image Processing (SCI一区 Top, CCF-A)
+- Information Fusion (SCI一区 Top, CCF-A)
 - [PR](https://www.editorialmanager.com/pr/default1.aspx): Pattern Recognition (SCI一区 Top, CCF-B)
 - [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF-B)
 - [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF-B)
@@ -85,7 +86,6 @@ We will continue to update this repository :running::running::running:
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF-C)
 - Neural Networks (SCI一区 Top, CCF-B)
 - Information Sciences (SCI一区 Top, CCF-B)
-- Information Fusion (SCI一区 Top, CCF-A)
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF-C)
 - [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区)
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top)
