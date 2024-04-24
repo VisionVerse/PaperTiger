@@ -13,7 +13,7 @@ We will continue to update this repository :running::running::running:
 0. [King of Papers](#0-King-of-Papers)
 1. **Read**: [Fragrance of Papers](#1-Fragrance-of-Papers)
 2. **Write**: [Planting of Papers](#2-Planting-of-Papers)
-3. **Accept**: [Bloom of Papers](#3-Bloom-of-Papers :mahjong::mahjong::mahjong:)
+3. **Accept**: [Bloom of Papers](#3-Bloom-of-Papers)
 4. [Beauty of Papers](#4-Beauty-of-Papers)
 
 
@@ -64,7 +64,8 @@ We will continue to update this repository :running::running::running:
 
 
 
-# 3. Bloom of Papers :mahjong::mahjong::mahjong:
+# 3. Bloom of Papers
+:mahjong::mahjong::mahjong:
 :kissing_cat:How to choose a journal/conference, submit, revise, pay, and publish for papers.
 ## 3.1 Selected Journals and Conferences
 - https://github.com/lcylmhlcy/Magazine_rank_newest
