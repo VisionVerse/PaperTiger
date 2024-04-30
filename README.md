@@ -87,7 +87,7 @@ We will continue to update this repository :running::running::running:
 - [IJCV](https://www.editorialmanager.com/visi/default.aspx): International Journal of Computer Vision (SCI二区 ~~Top~~, CCF-A), [Link](https://link.springer.com/journal/11263)
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF-C)
 - Neural Networks (SCI一区 Top, CCF-B)
-- Information Sciences (SCI一区 Top, CCF-B)
+- ~~Information Sciences (SCI一区 Top, CCF-B)~~
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF-C)
 - [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区)
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top)
