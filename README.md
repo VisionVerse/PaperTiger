@@ -52,6 +52,7 @@ We will continue to update this repository :running::running::running:
 # 2. Planting of Papers
 :smile_cat:How to write papers.
 - [IEEE Template](https://template-selector.ieee.org/secure/templateSelector/publicationType)
+- [Springer: LaTeX Author Support](https://www.springernature.com/gp/authors/campaigns/latex-author-support/see-where-our-services-will-take-you/18782940)
 
 ## Latex Tools
 - [Table](https://www.tablesgenerator.com/latex_tables)
