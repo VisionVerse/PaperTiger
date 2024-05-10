@@ -99,7 +99,7 @@ We will continue to update this repository :running::running::running:
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
 - PRL: Pattern Recognition Letters (SCI三区, CCF-C)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
-- The Visual Computer (SCI 三区), [Link](https://link.springer.com/journal/371/volumes-and-issues)
+- The Visual Computer (SCI 三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI 四区)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
 
