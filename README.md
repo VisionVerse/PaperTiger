@@ -1,4 +1,4 @@
-# Paper Tiger :heart_eyes_cat: is All You Need.
+![image](https://github.com/VisionVerse/PaperTiger/assets/154716884/11cba751-4f74-4360-80a5-2ecdaf70f932)# Paper Tiger :heart_eyes_cat: is All You Need.
 ![avatar](/paper_tiger.png)
 Amidst the allure of a vast collection of papers, the true essence of strength remains elusive. 
 It is not in the proliferation of papers that one finds resilience, but in the discernment cultivated through thoughtful examination. 
@@ -91,16 +91,16 @@ We will continue to update this repository :running::running::running:
 - ~~Information Sciences (SCI一区 Top, CCF-B)~~
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF-C)
 - [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区)
-- [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top)
-- [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区)
-- SPL: IEEE Signal Processing Letters (SCI二区)
+- [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF-C)
+- [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF-C)
+- SPL: IEEE Signal Processing Letters (SCI二区, CCF-C)
 - [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369): IEEE Robotics and Automation Letters (SCI二区 Top)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
-- [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
+- [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF-B)
 - PRL: Pattern Recognition Letters (SCI三区, CCF-C)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
-- The Visual Computer (SCI 三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
-- [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI 四区)
+- The Visual Computer (SCI三区, CCF-C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
+- [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF-C)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
 
 **Remote Sensing**
@@ -111,7 +111,7 @@ We will continue to update this repository :running::running::running:
 - GSIS：Geo-spatial Information Science (SCI一区)
 - [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~), [主页](https://www.mdpi.com/journal/remotesensing)
-- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区)
+- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF-C)
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
 
