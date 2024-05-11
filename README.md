@@ -66,9 +66,8 @@ We will continue to update this repository :running::running::running:
 
 
 # 3. Bloom of Papers
-:mahjong::mahjong::mahjong:
 :kissing_cat:How to choose a journal/conference, submit, revise, pay, and publish for papers.
-## 3.1 Selected Journals and Conferences
+## 3.1 Selected Journals and Conferences :mahjong::mahjong::mahjong:
 - https://github.com/lcylmhlcy/Magazine_rank_newest
 - CCF推荐：[国际刊物](https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/), [中文刊物](https://www.ccf.org.cn/ccftjgjxskwml/)
 - [CCF Conference Deadlines](https://ccfddl.top/)
