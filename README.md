@@ -1,4 +1,4 @@
-![image](https://github.com/VisionVerse/PaperTiger/assets/154716884/11cba751-4f74-4360-80a5-2ecdaf70f932)# Paper Tiger :heart_eyes_cat: is All You Need.
+# Paper Tiger :heart_eyes_cat: is All You Need.
 ![avatar](/paper_tiger.png)
 Amidst the allure of a vast collection of papers, the true essence of strength remains elusive. 
 It is not in the proliferation of papers that one finds resilience, but in the discernment cultivated through thoughtful examination. 
