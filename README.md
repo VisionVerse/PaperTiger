@@ -120,7 +120,7 @@ We will continue to update this repository :running::running::running:
 - MEDIA: Medical Image Analysis (SCI一区 Top)
 - [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top)
 - [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
-- [CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top)
+- [CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top) _**\<On Hold\>**_
 - [BSPC](https://www2.cloud.editorialmanager.com/bspc/default2.aspx): Biomedical Signal Processing and Control (SCI二区)
 - **Conferences:**
 - IPMI: Information Processing in Medical Imaging, 两年一次
