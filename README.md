@@ -125,6 +125,7 @@ We will continue to update this repository :running::running::running:
 - GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C)
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
+- 雷达学报 (EI)
 
 
 **Medical Image Analysis**
