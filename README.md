@@ -90,6 +90,7 @@ We will continue to update this repository :running::running::running:
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C)
 - [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区)
+- [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top)
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
 - SPL: IEEE Signal Processing Letters (SCI二区, CCF C)
