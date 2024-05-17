@@ -87,21 +87,31 @@ We will continue to update this repository :running::running::running:
 - [IJCV](https://www.editorialmanager.com/visi/default.aspx): International Journal of Computer Vision (SCI二区 ~~Top~~, CCF A), [Link](https://link.springer.com/journal/11263)
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C)
 - Neural Networks (SCI一区 Top, CCF B)
+- [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top)
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C)
 - [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区)
+- IEEE Internet of Things Journal (SCI一区 Top)
 - [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top)
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C)
+- [TIM]: IEEE Transactions on Instrumentation and Measurement (SCI二区 Top)
+- [AI]: Applied Intelligence (SCI二区)
+- [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
 - SPL: IEEE Signal Processing Letters (SCI二区, CCF C)
 - [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369): IEEE Robotics and Automation Letters (SCI二区 Top)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
+- IEEE Transactions on Big Data (SCI三区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF C)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C)
+- 模式识别与人工智能 (EI)
+- 自动化学报 (EI)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
+- 指挥与控制学报
+
 
 **Remote Sensing**
 - [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)
