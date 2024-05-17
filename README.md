@@ -110,6 +110,7 @@ We will continue to update this repository :running::running::running:
 - 模式识别与人工智能 (EI)
 - 自动化学报 (EI)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
+- 西安电子科技大学学报 (EI)
 - 指挥与控制学报
 
 
