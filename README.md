@@ -106,6 +106,7 @@ We will continue to update this repository :running::running::running:
 - PRL: Pattern Recognition Letters (SCI三区, CCF C)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
+- Image and Vision Computing (SCI三区)
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C)
 - 模式识别与人工智能 (EI)
 - 自动化学报 (EI)
