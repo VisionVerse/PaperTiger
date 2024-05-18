@@ -101,6 +101,7 @@ We will continue to update this repository :running::running::running:
 - SPL: IEEE Signal Processing Letters (SCI二区, CCF C)
 - [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369): IEEE Robotics and Automation Letters (SCI二区 Top)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
+- Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
 - IEEE Transactions on Big Data (SCI三区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF C)
@@ -123,7 +124,7 @@ We will continue to update this repository :running::running::running:
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top)
 - GSIS：Geo-spatial Information Science (SCI一区)
 - [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top)
-- [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~), [主页](https://www.mdpi.com/journal/remotesensing)
+- [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing)
 - GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C)
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
