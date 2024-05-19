@@ -92,7 +92,7 @@ We will continue to update this repository :running::running::running:
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C)
 - [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区)
 - IEEE Internet of Things Journal (SCI一区 Top)
-- [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top)
+- [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C)
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C)
 - [TIM]: IEEE Transactions on Instrumentation and Measurement (SCI二区 Top)
 - [AI]: Applied Intelligence (SCI二区)
