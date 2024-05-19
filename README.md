@@ -109,6 +109,7 @@ We will continue to update this repository :running::running::running:
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
 - Image and Vision Computing (SCI三区)
 - [TETCI]: IEEE Transactions on Emerging Topics in Computational Intelligence (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)
+- [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing)
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C)
 - 模式识别与人工智能 (EI)
 - 自动化学报 (EI)
