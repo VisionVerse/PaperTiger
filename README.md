@@ -102,6 +102,7 @@ We will continue to update this repository :running::running::running:
 - [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369): IEEE Robotics and Automation Letters (SCI二区 Top)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
+- [EC]: Evolutionary Computation (SCI二区)
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
 - IEEE Transactions on Big Data (SCI三区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF C)
