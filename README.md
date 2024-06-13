@@ -104,6 +104,7 @@ We will continue to update this repository :running::running::running:
 - Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
 - [EC]: Evolutionary Computation (SCI二区)
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
+- ACM Transactions on Multimedia Computing (SCI三区, CCF B)
 - IEEE Transactions on Big Data (SCI三区)
 - PRL: Pattern Recognition Letters (SCI三区, CCF C)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
