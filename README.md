@@ -94,7 +94,7 @@ We will continue to update this repository :running::running::running:
 - IEEE Internet of Things Journal (SCI一区 Top)
 - [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C)
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C)
-- [TIM]: IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)
+- [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)
 - [AI]: Applied Intelligence (SCI二区, CCF C)
 - [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
