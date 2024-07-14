@@ -119,6 +119,9 @@ We will continue to update this repository :running::running::running:
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
 - 西安电子科技大学学报 (EI), [Link](https://journal.xidian.edu.cn/xdxb/CN/1001-2400/home.shtml)
 - [JCC](https://www.jc2.org.cn/CN/volumn/current.shtml): 指挥与控制学报
+- **Conferences:**
+- CVPR
+- ICML
 
 
 **Remote Sensing**
