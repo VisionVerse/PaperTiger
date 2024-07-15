@@ -76,6 +76,7 @@ We will continue to update this repository :running::running::running:
 - [LetPub: NSFC项目查询](https://www.letpub.com.cn/index.php?page=grant)
 
 投稿顺序：SCI一区 Top > SCI一区 > CCF A > SCI二区Top > SCI二区 > CCF B
+
 **Computer Vision and Artificial Intelligence**
 - [TPAMI](https://mc.manuscriptcentral.com/tpami-cs): IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF A)
 - [TIP](https://mc.manuscriptcentral.com/tip-ieee): IEEE Transactions on Image Processing (SCI一区 Top, CCF A)
