@@ -100,8 +100,8 @@ We will continue to update this repository :running::running::running:
 - [AI]: Applied Intelligence (SCI二区, CCF C)
 - [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
-- SPL: IEEE Signal Processing Letters (SCI二区, CCF C)
 - [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369): IEEE Robotics and Automation Letters (SCI二区 Top)
+- SPL: IEEE Signal Processing Letters (SCI二区, CCF C)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
 - [EC]: Evolutionary Computation (SCI二区)
@@ -121,9 +121,8 @@ We will continue to update this repository :running::running::running:
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
 - 西安电子科技大学学报 (EI), [Link](https://journal.xidian.edu.cn/xdxb/CN/1001-2400/home.shtml)
 - [JCC](https://www.jc2.org.cn/CN/volumn/current.shtml): 指挥与控制学报
-- **Conferences:**
-- CVPR
-- ICML
+
+
 
 
 **Remote Sensing**
