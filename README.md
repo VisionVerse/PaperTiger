@@ -124,7 +124,11 @@ We will continue to update this repository :running::running::running:
 - **CCF A Conferences:**
 - CVPR
 - AAAI
-- 
+- ICCV
+- IJCAI
+- ACM MM
+- NIPS
+
 
 
 **Remote Sensing**
