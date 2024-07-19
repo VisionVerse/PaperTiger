@@ -122,7 +122,7 @@ We will continue to update this repository :running::running::running:
 - 西安电子科技大学学报 (EI), [Link](https://journal.xidian.edu.cn/xdxb/CN/1001-2400/home.shtml)
 - [JCC](https://www.jc2.org.cn/CN/volumn/current.shtml): 指挥与控制学报
 
-**CCF A Conferences:**
+**CCF A Conferences**
 - CVPR
 - AAAI [2025:8.7~8.15]
 - ICCV
