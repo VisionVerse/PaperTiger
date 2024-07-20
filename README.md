@@ -100,7 +100,7 @@ We will continue to update this repository :running::running::running:
 - [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)
 - [AI]: Applied Intelligence (SCI二区, CCF C)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
-- [RAL](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369): IEEE Robotics and Automation Letters (SCI二区 Top)
+- [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)
 - SPL: IEEE Signal Processing Letters (SCI二区, CCF C)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
