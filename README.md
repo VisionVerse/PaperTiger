@@ -87,8 +87,8 @@ We will continue to update this repository :running::running::running:
 - [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF B)
 - [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B)
 - [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF B)
-- [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C)
 - Neural Networks (SCI一区 Top, CCF B)
+- [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C)
 - [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top)
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C)
