@@ -92,7 +92,7 @@ We will continue to update this repository :running::running::running:
 - [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top)
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C)
-- [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区) **\<On Hold\>**
+~~- [TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区) **\<On Hold\>**~~
 - IEEE Internet of Things Journal (SCI一区 Top)
 - [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A)
 - [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C)
@@ -152,7 +152,7 @@ We will continue to update this repository :running::running::running:
 - MEDIA: Medical Image Analysis (SCI一区 Top)
 - [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top)
 - [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
-- [CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top) _**\<On Hold\>**_
+~~- [CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top) _**\<On Hold\>**_~~
 - [BSPC](https://www2.cloud.editorialmanager.com/bspc/default2.aspx): Biomedical Signal Processing and Control (SCI二区)
 - **Conferences:**
 - IPMI: Information Processing in Medical Imaging, 两年一次
