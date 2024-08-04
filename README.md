@@ -119,7 +119,7 @@ We will continue to update this repository :running::running::running:
 - [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
 - GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C), 4页内容+1页参考文献
 - PRL: Pattern Recognition Letters (SCI三区, CCF C)
-- [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C), [Link](https://link.springer.com/journal/11063)
+- [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C, OA), [Link](https://link.springer.com/journal/11063)
 - **中文：**
 - 模式识别与人工智能 (EI)
 - 自动化学报 (EI)
