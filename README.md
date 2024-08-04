@@ -116,7 +116,7 @@ We will continue to update this repository :running::running::running:
 - [JVCIR]: Journal of Visual Communication and Image Representation (SCI四区, CCF C), [Link](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
 - **Letter：**
 - [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 6页~8页
-- [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link]([)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
+- [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
 - GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C)
 - PRL: Pattern Recognition Letters (SCI三区, CCF C)
 - [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C), [Link](https://link.springer.com/journal/11063)
