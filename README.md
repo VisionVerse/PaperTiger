@@ -100,20 +100,20 @@ We will continue to update this repository :running::running::running:
 - [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)
 - [AI]: Applied Intelligence (SCI二区, CCF C)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
-- [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 6页~8页
-- SPL(https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link]([)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
 - [EC]: Evolutionary Computation (SCI二区)
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
 - [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Trans. Multimedia Comput. Commun. Appl. (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm)
 - IEEE Transactions on Big Data (SCI三区)
-- PRL: Pattern Recognition Letters (SCI三区, CCF C)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
 - Image and Vision Computing (SCI三区)
 - [TETCI]: IEEE Transactions on Emerging Topics in Computational Intelligence (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)
 - [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing)
+- [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 6页~8页
+- SPL(https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link]([)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
+- PRL: Pattern Recognition Letters (SCI三区, CCF C)
 - [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C), [Link](https://link.springer.com/journal/11063)
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C)
 - [CVI](https://mc.manuscriptcentral.com/theiet-cvi): IET Computer Vision (SCI四区, CCF C), [Link](https://ietresearch.onlinelibrary.wiley.com/journal/17519640)
