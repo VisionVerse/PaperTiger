@@ -111,13 +111,16 @@ We will continue to update this repository :running::running::running:
 - Image and Vision Computing (SCI三区)
 - [TETCI]: IEEE Transactions on Emerging Topics in Computational Intelligence (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)
 - [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing)
-- [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 6页~8页
-- SPL(https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link]([)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
-- PRL: Pattern Recognition Letters (SCI三区, CCF C)
-- [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C), [Link](https://link.springer.com/journal/11063)
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C)
 - [CVI](https://mc.manuscriptcentral.com/theiet-cvi): IET Computer Vision (SCI四区, CCF C), [Link](https://ietresearch.onlinelibrary.wiley.com/journal/17519640)
 - [JVCIR]: Journal of Visual Communication and Image Representation (SCI四区, CCF C), [Link](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
+- **Letter**
+- [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 6页~8页
+- SPL(https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link]([)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
+- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C)
+- PRL: Pattern Recognition Letters (SCI三区, CCF C)
+- [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C), [Link](https://link.springer.com/journal/11063)
+- **中文**
 - 模式识别与人工智能 (EI)
 - 自动化学报 (EI)
 - [JIG](http://www.cjig.cn/jig/ch/index.aspx): 中国图象图形学报
@@ -142,7 +145,6 @@ We will continue to update this repository :running::running::running:
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA)
 - [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA)
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing)
-- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C)
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
 - 雷达学报 (EI)
