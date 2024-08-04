@@ -101,7 +101,7 @@ We will continue to update this repository :running::running::running:
 - [AI]: Applied Intelligence (SCI二区, CCF C)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
 - [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 6页~8页
-- SPL: IEEE Signal Processing Letters (SCI二区, CCF C)
+- SPL(https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link]([)](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
 - [EC]: Evolutionary Computation (SCI二区)
