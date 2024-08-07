@@ -78,11 +78,13 @@ We will continue to update this repository :running::running::running:
 投稿顺序：SCI一区 Top > SCI一区 > CCF A > SCI二区Top > SCI二区 > CCF B
 
 **Computer Vision and Artificial Intelligence**
+- **IF > 10:**
 - [TPAMI](https://mc.manuscriptcentral.com/tpami-cs): IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF A)
 - [TIP](https://mc.manuscriptcentral.com/tip-ieee): IEEE Transactions on Image Processing (SCI一区 Top, CCF A)
 - [IF](https://www.editorialmanager.com/inffus/default.aspx): Information Fusion (SCI一区 Top, CCF A), [Link](https://www.sciencedirect.com/journal/information-fusion)
 - [IJCV](https://www.editorialmanager.com/visi/default.aspx): International Journal of Computer Vision (SCI二区 ~~Top~~, CCF A), [Link](https://link.springer.com/journal/11263)
 - [TNNLS](https://mc.manuscriptcentral.com/tnnls): IEEE Transactions on Neural Networks and Learning Systems (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+-
 - [PR](https://www.editorialmanager.com/pr/default1.aspx): Pattern Recognition (SCI一区 Top, CCF B)
 - [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF B)
 - [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B)
@@ -139,7 +141,7 @@ We will continue to update this repository :running::running::running:
 
 
 **Remote Sensing**
-- [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)
+- [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing), IF>10.
 - RSE: Remote Sensing of Environment (SCI一区 Top)
 - [TGRS](https://mc.manuscriptcentral.com/tgrs): IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF B)
 - GSIS：Geo-spatial Information Science (SCI一区)
