@@ -160,6 +160,7 @@ We will continue to update this repository :running::running::running:
 - [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
 - ~~[CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top) _**\<On Hold\>**_~~
 - [BSPC](https://www2.cloud.editorialmanager.com/bspc/default2.aspx): Biomedical Signal Processing and Control (SCI二区)
+- [CMIG](https://www.editorialmanager.com/cmig/default.aspx): Computerized Medical Imaging and Graphics (SCI二区), [Link](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
 - **Conferences:**
 - IPMI: Information Processing in Medical Imaging, 两年一次
 - MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention, 每年一次
