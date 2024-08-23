@@ -104,7 +104,7 @@ We will continue to update this repository :running::running::running:
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
 - [TCI]: IEEE Transactions on Computational Imaging (SCI二区)
 - [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
-- Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
+- [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
 - [EC]: Evolutionary Computation (SCI二区)
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B)
 - [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Trans. Multimedia Comput. Commun. Appl. (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm)
