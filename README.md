@@ -93,7 +93,7 @@ We will continue to update this repository :running::running::running:
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C)
 - [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top)
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
-- [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C)
+- [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C), [Link](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 - ~~[TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区) **\<On Hold\>**~~
 - IEEE Internet of Things Journal (SCI一区 Top)
 - [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A)
