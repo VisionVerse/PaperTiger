@@ -151,7 +151,7 @@ We will continue to update this repository :running::running::running:
 - GSIS：Geo-spatial Information Science (SCI一区)
 - International Journal of Digital Earth (SCI一区)
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA, $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
-- [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA)
+- [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA, $1496)
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing)
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
