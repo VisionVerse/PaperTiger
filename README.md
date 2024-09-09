@@ -103,7 +103,6 @@ We will continue to update this repository :running::running::running:
 - [AI]: Applied Intelligence (SCI二区, CCF C)
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
 - [TCI]: IEEE Transactions on Computational Imaging (SCI二区)
-- [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~)
 - [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
 - [EC]: Evolutionary Computation (SCI二区)
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
@@ -153,6 +152,7 @@ We will continue to update this repository :running::running::running:
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA, $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
 - [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区), [Link](https://www.tandfonline.com/journals/tjde20)
 - [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA, $1496)
+- [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing)
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
