@@ -108,7 +108,7 @@ We will continue to update this repository :running::running::running:
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
 - [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Trans. Multimedia Comput. Commun. Appl. (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm)
 - IEEE Transactions on Big Data (SCI三区)
-- [MS]:Multimedia Systems (SCI三区, CCF C), [Link](https://link.springer.com/journal/530)
+- [MS](https://www.editorialmanager.com/mmsj/default.aspx): Multimedia Systems (SCI三区, CCF C), [Link](https://link.springer.com/journal/530)
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
 - Image and Vision Computing (SCI三区)
