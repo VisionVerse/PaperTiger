@@ -82,14 +82,14 @@ We will continue to update this repository :running::running::running:
 - [TPAMI](https://mc.manuscriptcentral.com/tpami-cs): IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF A), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), IF<sub>24</sub>=20.8
 - [TIP](https://mc.manuscriptcentral.com/tip-ieee): IEEE Transactions on Image Processing (SCI一区 Top, CCF A), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), IF<sub>24</sub>=10.8
 - [IF](https://www.editorialmanager.com/inffus/default.aspx): Information Fusion (SCI一区 Top, CCF A), [Link](https://www.sciencedirect.com/journal/information-fusion), IF<sub>24</sub>=14.7
-- [IJCV](https://www.editorialmanager.com/visi/default.aspx): International Journal of Computer Vision (SCI二区 ~~Top~~, CCF A), [Link](https://link.springer.com/journal/11263)
-- [TNNLS](https://mc.manuscriptcentral.com/tnnls): IEEE Transactions on Neural Networks and Learning Systems (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+- [IJCV](https://www.editorialmanager.com/visi/default.aspx): International Journal of Computer Vision (SCI二区 ~~Top~~, CCF A), [Link](https://link.springer.com/journal/11263), IF<sub>24</sub>=11.6
+- [TNNLS](https://mc.manuscriptcentral.com/tnnls): IEEE Transactions on Neural Networks and Learning Systems (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), IF<sub>24</sub>=10.2
 -
-- [PR](https://www.editorialmanager.com/pr/default1.aspx): Pattern Recognition (SCI一区 Top, CCF B)
-- [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF B)
-- [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B)
-- [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF B)
-- Neural Networks (SCI一区 Top, CCF B)
+- [PR](https://www.editorialmanager.com/pr/default1.aspx): Pattern Recognition (SCI一区 Top, CCF B), [Link](http://www.journals.elsevier.com/pattern-recognition/), IF<sub>24</sub>=7.5
+- [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), IF<sub>24</sub>=8.3
+- [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), IF<sub>24</sub>=8.4
+- [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), IF<sub>24</sub>=7.9
+- Neural Networks (SCI一区 Top, CCF B), [Link](https://www.journals.elsevier.com/neural-networks), IF<sub>24</sub>=6.0
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C)
 - [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top)
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
