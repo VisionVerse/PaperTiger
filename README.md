@@ -90,41 +90,41 @@ We will continue to update this repository :running::running::running:
 - [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), IF<sub>24</sub>=8.4
 - [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), IF<sub>24</sub>=7.9
 - Neural Networks (SCI一区 Top, CCF B), [Link](https://www.journals.elsevier.com/neural-networks), IF<sub>24</sub>=6.0
-- [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C)
-- [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top)
+- [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C), [Link](https://www.sciencedirect.com/journal/knowledge-based-systems), IF<sub>24</sub>=7.2
+- [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), IF<sub>24</sub>=9.4
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
-- [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C), [Link](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+- [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C), [Link](https://www.sciencedirect.com/journal/expert-systems-with-applications), IF<sub>24</sub>=7.5
 - ~~[TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区) **\<On Hold\>**~~
-- IEEE Internet of Things Journal (SCI一区 Top)
-- [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A)
-- [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C)
-- [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C)
-- [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)
-- [AI]: Applied Intelligence (SCI二区, CCF C)
-- [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C)
-- [TCI]: IEEE Transactions on Computational Imaging (SCI二区)
-- [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747)
-- [EC]: Evolutionary Computation (SCI二区)
-- [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding)
-- [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Trans. Multimedia Comput. Commun. Appl. (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm)
-- IEEE Transactions on Big Data (SCI三区)
-- [MS](https://www.editorialmanager.com/mmsj/default.aspx): Multimedia Systems (SCI三区, CCF C), [Link](https://link.springer.com/journal/530)
-- [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区)
+- IEEE Internet of Things Journal (SCI一区 Top), [Link](http://ieee-iotj.org/), IF<sub>24</sub>=8.2
+- [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), IF<sub>24</sub>=8.9
+- [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), IF<sub>24</sub>=7.5
+- [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/neurocomputing), IF<sub>24</sub>=5.5
+- [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19), IF<sub>24</sub>=5.6
+- [AI]: Applied Intelligence (SCI二区, CCF C), [Link](https://www.springer.com/10489), IF<sub>24</sub>=3.4
+- [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C), [Link](http://www.elsevier.com/wps/product/cws_home/505662), IF<sub>24</sub>=3.4
+- [TCI]: IEEE Transactions on Computational Imaging (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), IF<sub>24</sub>=4.2
+- [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747), IF<sub>24</sub>=5.0
+- [EC]: Evolutionary Computation (SCI二区), [Link](http://www.mitpressjournals.org/loi/evco), IF<sub>24</sub>=4.6
+- [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), IF<sub>24</sub>=4.3
+- [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Trans. Multimedia Comput. Commun. Appl. (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm), IF<sub>24</sub>=5.2
+- IEEE Transactions on Big Data (SCI三区), IF<sub>24</sub>=7.5
+- [MS](https://www.editorialmanager.com/mmsj/default.aspx): Multimedia Systems (SCI三区, CCF C), [Link](https://link.springer.com/journal/530), IF<sub>24</sub>=3.5
+- [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区), [Link](https://www.springer.com/13735), IF<sub>24</sub>=3.6
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/volumes-and-issues)
-- Image and Vision Computing (SCI三区)
-- [TETCI]: IEEE Transactions on Emerging Topics in Computational Intelligence (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)
-- [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing)
-- [IJMLC]: International Journal of Machine Learning and Cybernetics(SCI三区), [Link](https://link.springer.com/journal/13042)
-- [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C)
-- [CVI](https://mc.manuscriptcentral.com/theiet-cvi): IET Computer Vision (SCI四区, CCF C), [Link](https://ietresearch.onlinelibrary.wiley.com/journal/17519640)
-- [JVCIR]: Journal of Visual Communication and Image Representation (SCI四区, CCF C), [Link](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation)
+- Image and Vision Computing (SCI三区), [Link](http://www.journals.elsevier.com/image-and-vision-computing/), IF<sub>24</sub>=4.2
+- [TETCI]: IEEE Transactions on Emerging Topics in Computational Intelligence (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297), IF<sub>24</sub>=5.3
+- [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing), IF<sub>24</sub>=2.9
+- [IJMLC]: International Journal of Machine Learning and Cybernetics(SCI三区), [Link](https://link.springer.com/journal/13042), IF<sub>24</sub>=3.1
+- [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C), [Link](https://onlinelibrary.wiley.com/journal/17518636), IF<sub>24</sub>=2.0
+- [CVI](https://mc.manuscriptcentral.com/theiet-cvi): IET Computer Vision (SCI四区, CCF C), [Link](https://ietresearch.onlinelibrary.wiley.com/journal/17519640), IF<sub>24</sub>=1.5
+- [JVCIR]: Journal of Visual Communication and Image Representation (SCI四区, CCF C), [Link](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation), IF<sub>24</sub>=2.6
 -
 - **Letter：**
-- [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top, CCF C), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), 6页~8页
-- [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), 4页内容+1页参考文献
-- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C), 4页内容+1页参考文献
-- [PRL](https://www.editorialmanager.com/prletters/default.aspx): Pattern Recognition Letters (SCI三区, CCF C), [Link](https://www.sciencedirect.com/journal/pattern-recognition-letters), 6页内容+1页参考文献
-- [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C, OA:$2990), [Link](https://link.springer.com/journal/11063)
+- [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top, CCF C), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), IF<sub>24</sub>=4.6, 6页~8页
+- [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), IF<sub>24</sub>=3.2, 4页内容+1页参考文献
+- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), IF<sub>24</sub>=4.0, 4页内容+1页参考文献
+- [PRL](https://www.editorialmanager.com/prletters/default.aspx): Pattern Recognition Letters (SCI三区, CCF C), [Link](https://www.sciencedirect.com/journal/pattern-recognition-letters), IF<sub>24</sub>=3.9, 6页内容+1页参考文献
+- [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C, OA:$2990), [Link](https://link.springer.com/journal/11063), IF<sub>24</sub>=2.6
 -
 - **中文：**
 - 模式识别与人工智能 (EI)
@@ -144,29 +144,29 @@ We will continue to update this repository :running::running::running:
 
 
 **Remote Sensing**
-- [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing), IF>10.
-- RSE: Remote Sensing of Environment (SCI一区 Top)
-- [TGRS](https://mc.manuscriptcentral.com/tgrs): IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36)
-- GSIS：Geo-spatial Information Science (SCI一区)
-- [TGIS](): International Journal of Geographical Information Science (SCI 一区), [Link](https://www.tandfonline.com/journals/tgis20)
-- [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA, $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation)
-- [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区), [Link](https://www.tandfonline.com/journals/tjde20)
-- [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA, $1496)
-- [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361)
-- [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing)
-- [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区)
+- [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing), IF<sub>24</sub>=10.6.
+- RSE: Remote Sensing of Environment (SCI一区 Top), [Link](https://www.journals.elsevier.com/remote-sensing-of-environment), IF<sub>24</sub>=11.1
+- [TGRS](https://mc.manuscriptcentral.com/tgrs): IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), IF<sub>24</sub>=7.5
+- GSIS：Geo-spatial Information Science (SCI一区), [Link](http://www.tandfonline.com/TGSI), IF<sub>24</sub>=4.4
+- [TGIS](): International Journal of Geographical Information Science (SCI 一区), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
+- [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA, $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
+- [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区), [Link](https://www.tandfonline.com/journals/tjde20), IF<sub>24</sub>=3.7
+- [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA, $1496), [Link](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334), IF<sub>24</sub>=4.7
+- [Sensors](https://mc.manuscriptcentral.com/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), IF<sub>24</sub>=4.3
+- [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing), IF<sub>24</sub>=4.2
+- [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区), [Link](http://61.187.54.10:8000/rewriter/ELSEVIER/http/vvv9dkrduhdq9bnl/wps/find/journaldescription.cws_home/525439/description), IF<sub>24</sub>=3.1
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
 - 雷达学报 (EI)
 
 
 **Medical Image Analysis**
-- Nature Biomedical Engineering (Nature子刊, SCI一区 Top)
-- MEDIA: Medical Image Analysis (SCI一区 Top)
-- [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top)
-- [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top)
+- Nature Biomedical Engineering (Nature子刊, SCI一区 Top), [Link](https://www.nature.com/natbiomedeng), IF<sub>24</sub>=26.8
+- MEDIA: Medical Image Analysis (SCI一区 Top), [Link](https://www.journals.elsevier.com/medical-image-analysis), IF<sub>24</sub>=10.7
+- [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42), IF<sub>24</sub>=8.9
+- [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top), [Link](http://jbhi.embs.org/), IF<sub>24</sub>=6.7
 - ~~[CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top) _**\<On Hold\>**_~~
-- [BSPC](https://www2.cloud.editorialmanager.com/bspc/default2.aspx): Biomedical Signal Processing and Control (SCI二区)
-- [CMIG](https://www.editorialmanager.com/cmig/default.aspx): Computerized Medical Imaging and Graphics (SCI二区), [Link](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics)
+- [BSPC](https://www2.cloud.editorialmanager.com/bspc/default2.aspx): Biomedical Signal Processing and Control (SCI二区), [Link](https://www.journals.elsevier.com/biomedical-signal-processing-and-control), IF<sub>24</sub>=4.9
+- [CMIG](https://www.editorialmanager.com/cmig/default.aspx): Computerized Medical Imaging and Graphics (SCI二区), [Link](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF<sub>24</sub>=5.4
 - **Conferences:**
 - IPMI: Information Processing in Medical Imaging, 两年一次
 - MICCAI: International Conference on Medical Image Computing and Computer Assisted Intervention, 每年一次
