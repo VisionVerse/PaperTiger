@@ -129,7 +129,7 @@ We will continue to update this repository :running::running::running:
 - **中文：**
 - 模式识别与人工智能 (EI)
 - 自动化学报 (EI)
-- [JIG]([http://www.cjig.cn/jig/ch/index.aspx](https://journal.ids.fzyun.cn/auth/realms/journal/protocol/openid-connect/auth?client_id=journal-cjig-author&redirect_uri=https%3A%2F%2Fcjig.portal.founderss.cn%2Foauth%2Fcallback&response_type=code&scope=phone+openid+email+profile&state=a545638f-2a35-407f-9ad7-08443e955296)): 中国图象图形学报, [Link](https://www.cjig.cn/homeNav?lang=zh)
+- [JIG](https://journal.ids.fzyun.cn/auth/realms/journal/protocol/openid-connect/auth?client_id=journal-cjig-author&redirect_uri=https%3A%2F%2Fcjig.portal.founderss.cn%2Foauth%2Fcallback&response_type=code&scope=phone+openid+email+profile&state=a545638f-2a35-407f-9ad7-08443e955296): 中国图象图形学报, [Link](https://www.cjig.cn/homeNav?lang=zh)
 - 西安电子科技大学学报 (EI), [Link](https://journal.xidian.edu.cn/xdxb/CN/1001-2400/home.shtml)
 - [JCC](https://www.jc2.org.cn/CN/volumn/current.shtml): 指挥与控制学报
 
