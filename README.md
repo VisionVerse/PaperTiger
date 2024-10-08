@@ -156,6 +156,7 @@ We will continue to update this repository :running::running::running:
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing), IF<sub>24</sub>=4.2
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区), [Link](http://61.187.54.10:8000/rewriter/ELSEVIER/http/vvv9dkrduhdq9bnl/wps/find/journaldescription.cws_home/525439/description), IF<sub>24</sub>=3.1
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
+- 遥感学报 (EI), [Link](https://www.ygxb.ac.cn/)
 - 雷达学报 (EI)
 
 
