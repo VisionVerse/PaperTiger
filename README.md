@@ -135,11 +135,12 @@ We will continue to update this repository :running::running::running:
 
 **CCF A Conferences**
 - CVPR
-- AAAI [2025:8.7~8.15]
+- AAAI, 6页+2页参考文献
 - ICCV
 - IJCAI
 - ACM MM
 - NIPS
+- ICIP: IEEE International Conference on Image Processing, 
 
 
 
