@@ -135,7 +135,7 @@ We will continue to update this repository :running::running::running:
 - [JCC](https://www.jc2.org.cn/CN/volumn/current.shtml): 指挥与控制学报
 
 **CCF A Conferences**
-- CVPR
+- CVPR, 8页+4页参考文献
 - AAAI, 6页+2页参考文献
 - ICCV
 - IJCAI
