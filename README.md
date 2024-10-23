@@ -136,14 +136,15 @@ We will continue to update this repository :running::running::running:
 - 西安电子科技大学学报 (EI), [Link](https://journal.xidian.edu.cn/xdxb/CN/1001-2400/home.shtml)
 - [JCC](https://www.jc2.org.cn/CN/volumn/current.shtml): 指挥与控制学报
 
-**CCF A Conferences**
-- CVPR, 8页+4页参考文献
-- AAAI, 6页+2页参考文献
-- ICCV
-- IJCAI
-- ACM MM
-- NIPS
-- ICIP: IEEE International Conference on Image Processing, 
+**CCF Selected Conferences**
+- CVPR, CCF A, 8页+4页参考文献
+- AAAI, CCF A, 6页+2页参考文献
+- ICCV, CCF A, 
+- IJCAI, CCF A, 
+- ACM MM, CCF A, 
+- NIPS, CCF A, 
+- ICIP: IEEE International Conference on Image Processing,
+- PRCV, CCF C, 最长14页（含参考文献）
 
 
 
