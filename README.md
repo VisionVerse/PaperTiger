@@ -142,8 +142,11 @@ We will continue to update this repository :running::running::running:
 - ICCV, CCF A, 
 - IJCAI, CCF A, 
 - ACM MM, CCF A, 
-- NIPS, CCF A, 
+- NIPS, CCF A,
+- ICASSP, CCF B, 4页
 - ICIP: IEEE International Conference on Image Processing,
+- ICME, CCF B,
+- IJCNN, CCF C,
 - PRCV, CCF C, 最长14页(含参考文献),匿名提交
 
 
