@@ -144,7 +144,7 @@ We will continue to update this repository :running::running::running:
 - ACM MM, CCF A, 
 - NIPS, CCF A, 
 - ICIP: IEEE International Conference on Image Processing,
-- PRCV, CCF C, 最长14页（含参考文献）
+- PRCV, CCF C, 最长14页(含参考文献),匿名提交
 
 
 
