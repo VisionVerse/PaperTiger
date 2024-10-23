@@ -106,7 +106,7 @@ We will continue to update this repository :running::running::running:
 - [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747), IF<sub>24</sub>=5.0
 - [EC]: Evolutionary Computation (SCI二区), [Link](http://www.mitpressjournals.org/loi/evco), IF<sub>24</sub>=4.6
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), IF<sub>24</sub>=4.3
-- [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Trans. Multimedia Comput. Commun. Appl. (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm), IF<sub>24</sub>=5.2
+- [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Transactions on Multimedia Computing, Communications, and Applications (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm), IF<sub>24</sub>=5.2
 - IEEE Transactions on Big Data (SCI三区), IF<sub>24</sub>=7.5
 - [TETCI]: IEEE Transactions on Emerging Topics in Computational Intelligence (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297), IF<sub>24</sub>=5.3
 - [MS](https://www.editorialmanager.com/mmsj/default.aspx): Multimedia Systems (SCI三区, CCF C), [Link](https://link.springer.com/journal/530), IF<sub>24</sub>=3.5
@@ -116,6 +116,7 @@ We will continue to update this repository :running::running::running:
 - Image and Vision Computing (SCI三区), [Link](http://www.journals.elsevier.com/image-and-vision-computing/), IF<sub>24</sub>=4.2
 - [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing), IF<sub>24</sub>=2.9
 - [IJMLC]: International Journal of Machine Learning and Cybernetics(SCI三区), [Link](https://link.springer.com/journal/13042), IF<sub>24</sub>=3.1
+- [TIIS](https://mc.manuscriptcentral.com/tiis): ACM Transactions on Interactive Intelligent Systems (SCI四区, CCF C), [Link](https://dl.acm.org/journal/tiis), IF<sub>24</sub>=3.6
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C), [Link](https://onlinelibrary.wiley.com/journal/17518636), IF<sub>24</sub>=2.0
 - [CVI](https://mc.manuscriptcentral.com/theiet-cvi): IET Computer Vision (SCI四区, CCF C), [Link](https://ietresearch.onlinelibrary.wiley.com/journal/17519640), IF<sub>24</sub>=1.5
 - [JVCIR]: Journal of Visual Communication and Image Representation (SCI四区, CCF C), [Link](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation), IF<sub>24</sub>=2.6
