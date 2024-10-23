@@ -73,6 +73,7 @@ We will continue to update this repository :running::running::running:
 - [CCF Conference Deadlines](https://ccfddl.top/)
 - https://twitter.com/DlCountdown
 - [LetPub最新SCI期刊影响因子查询及投稿分析系统](https://www.letpub.com.cn/index.php?page=journalapp)
+- Google 学术出版物排名[前 100 名](https://scholar.google.com.hk/citations?view_op=top_venues&hl=en)
 - [LetPub: NSFC项目查询](https://www.letpub.com.cn/index.php?page=grant)
 
 投稿顺序：SCI一区 Top > SCI一区 > CCF A > SCI二区Top > SCI二区 > CCF B
