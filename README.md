@@ -97,6 +97,7 @@ We will continue to update this repository :running::running::running:
 - [ESWA](https://www2.cloud.editorialmanager.com/eswa/default2.aspx): Expert Systems with Applications (SCI一区 Top, CCF C), [Link](https://www.sciencedirect.com/journal/expert-systems-with-applications), IF<sub>24</sub>=7.5
 - ~~[TIV](https://mc.manuscriptcentral.com/t-iv): IEEE Transactions on Intelligent Vehicles (SCI一区) **\<On Hold\>**~~
 - IEEE Internet of Things Journal (SCI一区 Top), [Link](http://ieee-iotj.org/), IF<sub>24</sub>=8.2
+- [JMS](https://www.editorialmanager.com/smejms/default.aspx): Journal of Manufacturing Systems (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/journal-of-manufacturing-systems), IF<sub>24</sub>=12.2
 - [TKDE]: IEEE Transactions on Knowledge and Data Engineering (SCI二区, CCF A), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), IF<sub>24</sub>=8.9
 - [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), IF<sub>24</sub>=7.5
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/neurocomputing), IF<sub>24</sub>=5.5
