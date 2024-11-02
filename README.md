@@ -177,7 +177,7 @@ We will continue to update this repository :running::running::running:
 - Nature Biomedical Engineering (Nature子刊, SCI一区 Top), [Link](https://www.nature.com/natbiomedeng), IF<sub>24</sub>=26.8
 - MEDIA: Medical Image Analysis (SCI一区 Top), [Link](https://www.journals.elsevier.com/medical-image-analysis), IF<sub>24</sub>=10.7
 - [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42), IF<sub>24</sub>=8.9
-- [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top), [Link](http://jbhi.embs.org/), IF<sub>24</sub>=6.7
+- [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020), IF<sub>24</sub>=6.7
 - ~~[CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top) _**\<On Hold\>**_~~
 - [BSPC](https://www2.cloud.editorialmanager.com/bspc/default2.aspx): Biomedical Signal Processing and Control (SCI二区), [Link](https://www.journals.elsevier.com/biomedical-signal-processing-and-control), IF<sub>24</sub>=4.9
 - [CMIG](https://www.editorialmanager.com/cmig/default.aspx): Computerized Medical Imaging and Graphics (SCI二区), [Link](https://www.sciencedirect.com/journal/computerized-medical-imaging-and-graphics), IF<sub>24</sub>=5.4
