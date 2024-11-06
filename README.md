@@ -161,7 +161,7 @@ We will continue to update this repository :running::running::running:
 - RSE: Remote Sensing of Environment (SCI一区 Top), [Link](https://www.journals.elsevier.com/remote-sensing-of-environment), IF<sub>24</sub>=11.1
 - [TGRS](https://mc.manuscriptcentral.com/tgrs): IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), IF<sub>24</sub>=7.5
 - GSIS：Geo-spatial Information Science (SCI一区), [Link](http://www.tandfonline.com/TGSI), IF<sub>24</sub>=4.4
-- [TGIS](): International Journal of Geographical Information Science (SCI 一区), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
+- [TGIS](): International Journal of Geographical Information Science (SCI 一区, OA, $2195), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA, $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
 - [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区), [Link](https://www.tandfonline.com/journals/tjde20), IF<sub>24</sub>=3.7
 - [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA, $1496), [Link](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334), IF<sub>24</sub>=4.7
