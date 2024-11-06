@@ -145,7 +145,7 @@ We will continue to update this repository :running::running::running:
 - CVPR, CCF A, 8页+4页参考文献
 - AAAI, CCF A, 6页+2页参考文献
 - ICCV, CCF A, 
-- IJCAI, CCF A, 
+- IJCAI, CCF A, 7页+2页参考文献
 - ACM MM, CCF A, 
 - NIPS, CCF A,
 - ICASSP, CCF B, 4页
