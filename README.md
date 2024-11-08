@@ -160,14 +160,14 @@ We will continue to update this repository :running::running::running:
 - [ISPRS](https://www2.cloud.editorialmanager.com/photo/default2.aspx): ISPRS Journal of Photogrammetry and Remote Sensing (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing), IF<sub>24</sub>=10.6.
 - RSE: Remote Sensing of Environment (SCI一区 Top), [Link](https://www.journals.elsevier.com/remote-sensing-of-environment), IF<sub>24</sub>=11.1
 - [TGRS](https://mc.manuscriptcentral.com/tgrs): IEEE Transactions on Geoscience and Remote Sensing (SCI一区, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36), IF<sub>24</sub>=7.5
-- [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA, $1496), [Link](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334), IF<sub>24</sub>=4.7
-- [Sensors](https://ieee.atyponrex.com/journal/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~, 8页之后$175/页), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), IF<sub>24</sub>=4.3
+- [JSTARS](https://mc.manuscriptcentral.com/jstars): Journal of Selected Topics in Applied Earth Observations and Remote Sensing (SCI二区 Top, OA: $1496), [Link](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4648334), IF<sub>24</sub>=4.7
+- [Sensors](https://ieee.atyponrex.com/journal/sensors): IEEE Sensors Journal (SCI二区 ~~Top~~, 第9页开始$175/超页, 或者OA: $1750), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361), IF<sub>24</sub>=4.3
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing), IF<sub>24</sub>=4.2
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区), [Link](http://61.187.54.10:8000/rewriter/ELSEVIER/http/vvv9dkrduhdq9bnl/wps/find/journaldescription.cws_home/525439/description), IF<sub>24</sub>=3.1
-- GSIS：Geo-spatial Information Science (SCI一区, OA, $2195), [Link](http://www.tandfonline.com/TGSI), IF<sub>24</sub>=4.4
-- [TGIS](): International Journal of Geographical Information Science (SCI 一区, OA, $2195), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
-- [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA, $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
-- [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区, OA, $2990), [Link](https://www.tandfonline.com/journals/tjde20), IF<sub>24</sub>=3.7
+- GSIS：Geo-spatial Information Science (SCI一区, OA: $2195), [Link](http://www.tandfonline.com/TGSI), IF<sub>24</sub>=4.4
+- [TGIS](): International Journal of Geographical Information Science (SCI 一区, OA: $2195), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
+- [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA: $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
+- [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区, OA: $2990), [Link](https://www.tandfonline.com/journals/tjde20), IF<sub>24</sub>=3.7
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
 - [JRS](http://jors.ijournals.cn/jrs/ch/login_author.aspx): 遥感学报 (EI), [Link](https://www.ygxb.ac.cn/)
 - 雷达学报 (EI)
