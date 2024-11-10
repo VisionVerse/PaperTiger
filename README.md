@@ -118,7 +118,7 @@ We will continue to update this repository :running::running::running:
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区), [Link](https://www.springer.com/13735), IF<sub>24</sub>=3.6
 - [NCAA](https://www.editorialmanager.com/ncaa/default.aspx): Neural Computing and Applications (SCI三区, CCF C), [Link](https://link.springer.com/journal/521), IF<sub>24</sub>=4.5
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/), IF<sub>24</sub>=3.0
-- Image and Vision Computing (SCI三区), [Link](http://www.journals.elsevier.com/image-and-vision-computing/), IF<sub>24</sub>=4.2
+- Image and Vision Computing (SCI三区, CCF C), [Link](http://www.journals.elsevier.com/image-and-vision-computing/), IF<sub>24</sub>=4.2
 - [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing), IF<sub>24</sub>=2.9
 - [IJMLC]: International Journal of Machine Learning and Cybernetics(SCI三区), [Link](https://link.springer.com/journal/13042), IF<sub>24</sub>=3.1
 - [TIIS](https://mc.manuscriptcentral.com/tiis): ACM Transactions on Interactive Intelligent Systems (SCI四区, CCF C), [Link](https://dl.acm.org/journal/tiis), IF<sub>24</sub>=3.6
@@ -165,7 +165,7 @@ We will continue to update this repository :running::running::running:
 - [RS](https://susy.mdpi.com/user/manuscripts/upload/89796d1ea0142843673d53fa4dce5d85?&journal=remotesensing): Remote Sensing (SCI二区 ~~Top~~, OA), [Link](https://www.mdpi.com/journal/remotesensing), IF<sub>24</sub>=4.2
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区), [Link](http://61.187.54.10:8000/rewriter/ELSEVIER/http/vvv9dkrduhdq9bnl/wps/find/journaldescription.cws_home/525439/description), IF<sub>24</sub>=3.1
 - GSIS：Geo-spatial Information Science (SCI一区, OA: $2195), [Link](http://www.tandfonline.com/TGSI), IF<sub>24</sub>=4.4
-- [TGIS](): International Journal of Geographical Information Science (SCI 一区, OA: $2195), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
+- [TGIS](): International Journal of Geographical Information Science (SCI 一区, OA: $2195, CCF C), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA: $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
 - [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区, OA: $2990), [Link](https://www.tandfonline.com/journals/tjde20), IF<sub>24</sub>=3.7
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
@@ -175,7 +175,7 @@ We will continue to update this repository :running::running::running:
 
 **Medical Image Analysis**
 - Nature Biomedical Engineering (Nature子刊, SCI一区 Top), [Link](https://www.nature.com/natbiomedeng), IF<sub>24</sub>=26.8
-- MEDIA: Medical Image Analysis (SCI一区 Top), [Link](https://www.journals.elsevier.com/medical-image-analysis), IF<sub>24</sub>=10.7
+- MEDIA: Medical Image Analysis (SCI一区 Top, CCF C), [Link](https://www.journals.elsevier.com/medical-image-analysis), IF<sub>24</sub>=10.7
 - [TMI](https://mc.manuscriptcentral.com/tmi-ieee): IEEE Transactions on Medical Imaging (SCI一区 Top), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42), IF<sub>24</sub>=8.9
 - [JBHI](https://mc.manuscriptcentral.com/jbhi-embs): IEEE Journal of Biomedical and Health Informatics (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020), IF<sub>24</sub>=6.7
 - ~~[CIBM](https://www2.cloud.editorialmanager.com/cibm/default2.aspx): Computers in Biology and Medicine (SCI二区 Top) _**\<On Hold\>**_~~
