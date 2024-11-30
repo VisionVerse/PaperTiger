@@ -94,6 +94,7 @@ We will continue to update this repository :running::running::running:
 - [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), IF<sub>24</sub>=8.4
 - [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), IF<sub>24</sub>=7.9
 - Neural Networks (SCI一区 Top, CCF B), [Link](https://www.journals.elsevier.com/neural-networks), IF<sub>24</sub>=6.0
+- [Advanced Engineering Informatics](https://www.editorialmanager.com/advei/default.aspx) (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/advanced-engineering-informatics), IF<sub>24</sub>=8.0
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C), [Link](https://www.sciencedirect.com/journal/knowledge-based-systems), IF<sub>24</sub>=7.2
 - [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), IF<sub>24</sub>=9.4
 - ~~Information Sciences (SCI一区 Top, CCF B)~~
