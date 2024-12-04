@@ -125,7 +125,8 @@ We will continue to update this repository :running::running::running:
 - [TIIS](https://mc.manuscriptcentral.com/tiis): ACM Transactions on Interactive Intelligent Systems (SCI四区, CCF C), [Link](https://dl.acm.org/journal/tiis), IF<sub>24</sub>=3.6
 - [TIST](https://mc.manuscriptcentral.com/tist): ACM Transactions on Intelligent Systems and Technology (SCI四区), [Link](https://dl.acm.org/journal/tist), IF<sub>24</sub>=7.2
 - [IET IP](https://mc.manuscriptcentral.com/theiet-ipr): IET Image Processing (SCI四区, CCF C, OA: $2530), [Link](https://onlinelibrary.wiley.com/journal/17518636), IF<sub>24</sub>=2.0
-- [CVI](https://mc.manuscriptcentral.com/theiet-cvi): IET Computer Vision (SCI四区, CCF C, OA: $2420), [Link](https://ietresearch.onlinelibrary.wiley.com/journal/17519640), IF<sub>24</sub>=1.5
+- [IET CV](https://mc.manuscriptcentral.com/theiet-cvi): IET Computer Vision (SCI四区, CCF C, OA: $2420), [Link](https://ietresearch.onlinelibrary.wiley.com/journal/17519640), IF<sub>24</sub>=1.5
+- [IET SP](https://mc.manuscriptcentral.com/theiet-spr) IET Signal Processing (SCI四区, CCF C, OA: $2375), [Link](https://onlinelibrary.wiley.com/journal/17519683), IF<sub>24</sub>=1.1
 - [JVCIR]: Journal of Visual Communication and Image Representation (SCI四区, CCF C), [Link](https://www.sciencedirect.com/journal/journal-of-visual-communication-and-image-representation), IF<sub>24</sub>=2.6
 -
 - **Letter：**
