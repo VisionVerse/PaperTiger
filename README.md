@@ -152,7 +152,7 @@ We will continue to update this repository :running::running::running:
 - IJCAI, CCF A, 7页+2页参考文献
 - ACM MM, CCF A, 
 - NIPS, CCF A,
-- ICASSP, CCF B, 4页, 6月~9月
+- ICASSP, CCF B, 4页+1页参考文献, 6月~9月
 - ICPR, CCF C, CAAI B,
 - ICIP: IEEE International Conference on Image Processing,
 - ICME, CCF B,
