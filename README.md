@@ -84,7 +84,7 @@ We will continue to update this repository :running::running::running:
 
 
 **Computer Vision and Artificial Intelligence**
-- **IF > 10:**
+- **IF > 10** :heart_eyes: :heart_eyes: :heart_eyes: 
 - [TPAMI](https://mc.manuscriptcentral.com/tpami-cs): IEEE Trans on Pattern Analysis and Machine Intelligence (SCI一区 Top, CCF A), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), IF<sub>24</sub>=20.8
 - [TIP](https://mc.manuscriptcentral.com/tip-ieee): IEEE Transactions on Image Processing (SCI一区 Top, CCF A), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), IF<sub>24</sub>=10.8
 - [IF](https://www.editorialmanager.com/inffus/default.aspx): Information Fusion (SCI一区 Top, CCF A), [Link](https://www.sciencedirect.com/journal/information-fusion), IF<sub>24</sub>=14.7
