@@ -197,13 +197,13 @@ We will continue to update this repository :running::running::running:
 
 
 **Food Sciences**
-- ACS:
+- **ACS**
 - Journal of Agricultural and Food Chemistry (SCI一区 Top), [Link](https://pubs.acs.org/journal/jafcau), IF<sub>24</sub>=5.7
-- Elsevier:
+- **Elsevier**
 - Food Quality and Preference (SCI一区 Top), [Link](https://www.journals.elsevier.com/food-quality-and-preference), IF<sub>24</sub>=4.9
 - Food Research International (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/food-research-international), IF<sub>24</sub>=7.0
 - Journal of Dairy Science (SCI一区 Top, OA: 3500), [Link](https://www.sciencedirect.com/journal/journal-of-dairy-science), IF<sub>24</sub>=3.7
-- ‌Wiley:
+- ‌**Wiley**
 - Journal of Food Science (SCI二区), [Link](https://ift.onlinelibrary.wiley.com/journal/17503841?journalRedirectCheck=true), IF<sub>24</sub>=3.2
 
 
