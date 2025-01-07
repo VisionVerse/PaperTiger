@@ -121,7 +121,7 @@ We will continue to update this repository :running::running::running:
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区), [Link](https://www.springer.com/13735), IF<sub>24</sub>=3.6
 - [NCAA](https://www.editorialmanager.com/ncaa/default.aspx): Neural Computing and Applications (SCI三区, CCF C), [Link](https://link.springer.com/journal/521), IF<sub>24</sub>=4.5
 - The Visual Computer (SCI三区, CCF C), [Link](https://link.springer.com/journal/371/), IF<sub>24</sub>=3.0
-- Image and Vision Computing (SCI三区, CCF C), [Link](http://www.journals.elsevier.com/image-and-vision-computing/), IF<sub>24</sub>=4.2
+- Image and Vision Computing (SCI三区, CCF C), [Link](https://www.sciencedirect.com/journal/image-and-vision-computing), IF<sub>24</sub>=4.2
 - [DSP](https://www.editorialmanager.com/dsp/default.aspx): Digital Signal Processing (SCI三区), [Link](https://www.sciencedirect.com/journal/digital-signal-processing), IF<sub>24</sub>=2.9
 - [IJMLC]: International Journal of Machine Learning and Cybernetics(SCI三区), [Link](https://link.springer.com/journal/13042), IF<sub>24</sub>=3.1
 - [TIIS](https://mc.manuscriptcentral.com/tiis): ACM Transactions on Interactive Intelligent Systems (SCI四区, CCF C), [Link](https://dl.acm.org/journal/tiis), IF<sub>24</sub>=3.6
