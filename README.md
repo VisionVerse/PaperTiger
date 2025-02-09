@@ -114,6 +114,7 @@ We will continue to update this repository :running::running::running:
 - [TCI]: IEEE Transactions on Computational Imaging (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), IF<sub>24</sub>=4.2
 - [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747), IF<sub>24</sub>=5.0
 - [EC]: Evolutionary Computation (SCI二区), [Link](http://www.mitpressjournals.org/loi/evco), IF<sub>24</sub>=4.6
+- Computational Visual Media (SCI三区), [Link](https://link.springer.com/journal/41095), IF<sub>24</sub>=17.3
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), IF<sub>24</sub>=4.3
 - [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Transactions on Multimedia Computing, Communications, and Applications (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm), IF<sub>24</sub>=5.2
 - IEEE Transactions on Big Data (SCI三区), IF<sub>24</sub>=7.5
