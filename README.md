@@ -96,7 +96,7 @@ We will continue to update this repository :running::running::running:
 - [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), IF<sub>24</sub>=8.3
 - [PR](https://www.editorialmanager.com/pr/default1.aspx): Pattern Recognition (SCI一区 Top, CCF B), [Link](http://www.journals.elsevier.com/pattern-recognition/), IF<sub>24</sub>=7.5
 - [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), IF<sub>24</sub>=7.9
-- Neural Networks (SCI一区 Top, CCF B), [Link](https://www.journals.elsevier.com/neural-networks), IF<sub>24</sub>=6.0
+- [NN](https://www.editorialmanager.com/neunet/default2.aspx): Neural Networks (SCI一区 Top, CCF B), [Link](https://www.journals.elsevier.com/neural-networks), IF<sub>24</sub>=6.0
 - [Advanced Engineering Informatics](https://www.editorialmanager.com/advei/default.aspx) (SCI一区 Top), [Link](https://www.sciencedirect.com/journal/advanced-engineering-informatics), IF<sub>24</sub>=8.0
 - [KBS](https://www.editorialmanager.com/knosys/default2.aspx): Knowledge-Based Systems (SCI一区 Top, CCF C), [Link](https://www.sciencedirect.com/journal/knowledge-based-systems), IF<sub>24</sub>=7.2
 - [TCyb]: IEEE Transactions on Cybernetics (SCI一区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), IF<sub>24</sub>=9.4
