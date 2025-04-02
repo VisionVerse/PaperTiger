@@ -113,6 +113,7 @@ We will continue to update this repository :running::running::running:
 - [AI]: Applied Intelligence (SCI二区, CCF C), [Link](https://www.springer.com/10489), IF<sub>24</sub>=3.4
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C), [Link](http://www.elsevier.com/wps/product/cws_home/505662), IF<sub>24</sub>=3.4
 - [TCI]: IEEE Transactions on Computational Imaging (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), IF<sub>24</sub>=4.2
+- Measurement (SCI二区), [Link](https://www.sciencedirect.com/journal/measurement), IF<sub>24</sub>=5.2
 - [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI二区 OA), [Link](https://link.springer.com/journal/40747), IF<sub>24</sub>=5.0
 - [EC]: Evolutionary Computation (SCI二区), [Link](http://www.mitpressjournals.org/loi/evco), IF<sub>24</sub>=4.6
 - Computational Visual Media (SCI三区), [Link](https://link.springer.com/journal/41095), IF<sub>24</sub>=17.3
