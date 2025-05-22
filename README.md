@@ -177,7 +177,7 @@ We will continue to update this repository :running::running::running:
 - [IPT](https://www2.cloud.editorialmanager.com/infphy/default2.aspx): Infrared Physics and Technology (SCI三区), [Link](https://www.sciencedirect.com/journal/infrared-physics-and-technology), IF<sub>24</sub>=3.1
 - International Journal of Remote Sensing (SCI四区), [Link](https://www.tandfonline.com/journals/tres20), IF<sub>24</sub>=3.0
 - GSIS：Geo-spatial Information Science (SCI一区, OA: $2195), [Link](http://www.tandfonline.com/TGSI), IF<sub>24</sub>=4.4
-- [TGIS](): International Journal of Geographical Information Science (SCI 一区, OA: $2195, CCF C), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
+- [TGIS](): International Journal of Geographical Information Science (SCI 一区, CCF C), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
 - [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA: $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
 - [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区, OA: $2990), [Link](https://www.tandfonline.com/journals/tjde20), IF<sub>24</sub>=3.7
 - European Journal of Remote Sensing (SCI四区, OA: $1250), [Link](https://www.tandfonline.com/journals/tejr20)
