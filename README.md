@@ -140,7 +140,7 @@ We will continue to update this repository :running::running::running:
 - **Letter：**
 - [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top, CCF C), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), IF<sub>24</sub>=4.6, 6页~8页
 - [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), IF<sub>24</sub>=3.2, 4页内容+1页参考文献
-- GRSL: Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), IF<sub>24</sub>=4.0, 4页内容+1页参考文献
+- GRSL: IEEE Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), IF<sub>24</sub>=4.0, 4页内容+1页参考文献
 - [PRL](https://www.editorialmanager.com/prletters/default.aspx): Pattern Recognition Letters (SCI三区, CCF C), [Link](https://www.sciencedirect.com/journal/pattern-recognition-letters), IF<sub>24</sub>=3.9, 6页内容+1页参考文献
 - ICT Express (SCI三区, OA:$1500), [Link](https://www.sciencedirect.com/journal/ict-express), IF<sub>24</sub>=4.1, 6页内容+1页参考文献；也收综述；
 - [NPL](https://www.editorialmanager.com/nepl/default.aspx): Neural Processing Letters (SCI四区, CCF C, OA:$2990), [Link](https://link.springer.com/journal/11063), IF<sub>24</sub>=2.6
