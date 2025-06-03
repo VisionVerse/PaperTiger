@@ -111,7 +111,7 @@ We will continue to update this repository :running::running::running:
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/neurocomputing), IF<sub>24</sub>=5.5
 - [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19), IF<sub>24</sub>=5.6
 - [AI]: Applied Intelligence (SCI二区, CCF C), [Link](https://www.springer.com/10489), IF<sub>24</sub>=3.4
-- [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C), [Link](http://www.elsevier.com/wps/product/cws_home/505662), IF<sub>24</sub>=3.4
+- [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C), [Link](https://www.sciencedirect.com/journal/signal-processing), IF<sub>24</sub>=3.4
 - [TCI]: IEEE Transactions on Computational Imaging (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), IF<sub>24</sub>=4.2
 - Measurement (SCI二区), [Link](https://www.sciencedirect.com/journal/measurement), IF<sub>24</sub>=5.2
 - Optics & Laser Technology (SCI二区), [Link](https://www.sciencedirect.com/journal/optics-and-laser-technology), IF<sub>24</sub>=4.6
