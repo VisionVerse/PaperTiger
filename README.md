@@ -117,6 +117,7 @@ We will continue to update this repository :running::running::running:
 - Optics & Laser Technology (SCI二区), [Link](https://www.sciencedirect.com/journal/optics-and-laser-technology), IF<sub>24</sub>=4.6
 - [CAIS](https://www.editorialmanager.com/cais/default2.aspx): Complex & Intelligent Systems (SCI~~二区~~$\downarrow$ 三区 OA), [Link](https://link.springer.com/journal/40747), IF<sub>24</sub>=5.0
 - [EC]: Evolutionary Computation (SCI二区), [Link](http://www.mitpressjournals.org/loi/evco), IF<sub>24</sub>=4.6
+- Nondestructive Testing and Evaluation (SCI二区), [Link](https://www.tandfonline.com/journals/gnte20), IF<sub>24</sub>=4.2
 - Computational Visual Media (SCI三区), [Link](https://link.springer.com/journal/41095), IF<sub>24</sub>=17.3
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), IF<sub>24</sub>=4.3
 - [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Transactions on Multimedia Computing, Communications, and Applications (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm), IF<sub>24</sub>=5.2
