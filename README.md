@@ -237,6 +237,6 @@ We will continue to update this repository :running::running::running:
 
 ------
 
-**:clap::clap::clap:Congratulations! Your article has been published in the Early Access area on IEEE Xplore.**
+**:clap::clap::clap:Congratulations! Your article has been published in the Early Access area on IEEE T-PAMI.**
 
 **:clap::clap::clap:We are pleased to accept your manuscript 'Paper Tiger is All You Need' for publication in Nature.**
