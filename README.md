@@ -110,6 +110,7 @@ We will continue to update this repository :running::running::running:
 - [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), IF<sub>24</sub>=7.5
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/neurocomputing), IF<sub>24</sub>=5.5
 - [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19), IF<sub>24</sub>=5.6
+- [TAES](https://mc.manuscriptcentral.com/taes): IEEE Transactions on Aerospace and Electronic Systems, (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7), IF<sub>25</sub>=5.7
 - [AI]: Applied Intelligence (SCI二区, CCF C), [Link](https://www.springer.com/10489), IF<sub>24</sub>=3.4
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C), [Link](https://www.sciencedirect.com/journal/signal-processing), IF<sub>24</sub>=3.4
 - [TCI]: IEEE Transactions on Computational Imaging (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), IF<sub>24</sub>=4.2
