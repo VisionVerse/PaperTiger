@@ -79,7 +79,7 @@ We will continue to update this repository :running::running::running:
 
 投稿时间：周二 :heart_eyes:, 周三 :blush:; 周六 :worried:
 
-投稿顺序：SCI一区 Top > SCI一区 > CCF A > SCI二区Top > SCI二区 > CCF B
+投稿顺序：子刊 > SCI一区 Top > SCI一区 > CCF A > SCI二区Top > SCI二区 > CCF B
 
 
 
