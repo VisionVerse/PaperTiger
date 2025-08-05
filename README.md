@@ -110,7 +110,7 @@ We will continue to update this repository :running::running::running:
 - [EAAI]: Engineering Applications of Artificial Intelligence (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), IF<sub>24</sub>=7.5
 - [NC](https://www2.cloud.editorialmanager.com/neucom/default2.aspx): Neurocomputing (SCI二区 Top, CCF C), [Link](https://www.journals.elsevier.com/neurocomputing), IF<sub>24</sub>=5.5
 - [TIM](https://www.editorialmanager.com/tim/default.aspx): IEEE Transactions on Instrumentation and Measurement (SCI二区 Top), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19), IF<sub>24</sub>=5.6
-- [TVT](https://mc.manuscriptcentral.com/tvt-ieee): IEEE Transactions on Vehicular Technology (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25), IF<sub>25</sub>=7.1
+- [TVT](https://mc.manuscriptcentral.com/tvt-ieee): IEEE Transactions on Vehicular Technology (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25), IF<sub>25</sub>=7.1, regular papers (初次14页，返修16页),  correspondence papers (5页)
 - [TAES](https://mc.manuscriptcentral.com/taes): IEEE Transactions on Aerospace and Electronic Systems, (SCI二区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7), IF<sub>25</sub>=5.7
 - [AI]: Applied Intelligence (SCI二区, CCF C), [Link](https://www.springer.com/10489), IF<sub>24</sub>=3.4
 - [SP](https://www2.cloud.editorialmanager.com/sigpro/default2.aspx): Signal Processing (SCI二区, CCF C), [Link](https://www.sciencedirect.com/journal/signal-processing), IF<sub>24</sub>=3.4
@@ -142,7 +142,7 @@ We will continue to update this repository :running::running::running:
 -
 - **Letter：**
 - [RAL](https://ras.papercept.net/journals/ral/scripts/login.pl): IEEE Robotics and Automation Letters (SCI二区 Top, CCF C), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369), IF<sub>24</sub>=4.6, 6页~8页
-- [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), IF<sub>24</sub>=3.2, 4页内容+1页参考文献
+- [SPL](https://mc.manuscriptcentral.com/sps-ieee): IEEE Signal Processing Letters (SCI二区, CCF C), [Link](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=97), IF<sub>24</sub>=3.2, 4页内容+1页参考文献, 作者≤5人
 - [GRSL](https://mc.manuscriptcentral.com/grsl): IEEE Geoscience and Remote Sensing Letters (SCI~~二区~~三区, CCF C), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8859), IF<sub>24</sub>=4.0, 内容+参考文献5页
 - [PRL](https://www.editorialmanager.com/prletters/default.aspx): Pattern Recognition Letters (SCI三区, CCF C), [Link](https://www.sciencedirect.com/journal/pattern-recognition-letters), IF<sub>24</sub>=3.9, 6页内容+1页参考文献
 - ICT Express (SCI三区, OA:$1500), [Link](https://www.sciencedirect.com/journal/ict-express), IF<sub>24</sub>=4.1, 6页内容+1页参考文献；也收综述；
