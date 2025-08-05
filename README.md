@@ -92,8 +92,8 @@ We will continue to update this repository :running::running::running:
 - [IF](https://www.editorialmanager.com/inffus/default.aspx): Information Fusion (SCI一区 Top, CCF A), [Link](https://www.sciencedirect.com/journal/information-fusion), IF<sub>24</sub>=14.7
 - [TII](https://mc.manuscriptcentral.com/tii): IEEE Transactions on Industrial Informatics (SCI一区 Top, CCF C), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), IF<sub>24</sub>=11.7
 -
-- [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), IF<sub>24</sub>=8.4
 - [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), IF<sub>24</sub>=8.3
+- [TMM](https://mc.manuscriptcentral.com/tmm-ieee): IEEE Transactions on Multimedia (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), IF<sub>24</sub>=8.4
 - [PR](https://www.editorialmanager.com/pr/default1.aspx): Pattern Recognition (SCI一区 Top, CCF B), [Link](http://www.journals.elsevier.com/pattern-recognition/), IF<sub>24</sub>=7.5
 - [TITS](https://mc.manuscriptcentral.com/t-its): IEEE Transactions on Intelligent Transportation Systems (SCI一区 Top, CCF B), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979), IF<sub>24</sub>=7.9
 - [NN](https://www.editorialmanager.com/neunet/default2.aspx): Neural Networks (SCI一区 Top, CCF B), [Link](https://www.journals.elsevier.com/neural-networks), IF<sub>24</sub>=6.0
