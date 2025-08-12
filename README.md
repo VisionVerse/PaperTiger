@@ -124,6 +124,7 @@ We will continue to update this repository :running::running::running:
 - [CVIU](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding): Computer Vision and Image Understanding (SCI三区, CCF B), [Link](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding), IF<sub>24</sub>=4.3
 - [ACM TOMM](https://mc.manuscriptcentral.com/tomm): ACM Transactions on Multimedia Computing, Communications, and Applications (SCI三区, CCF B), [Link](https://dl.acm.org/journal/tomm), IF<sub>24</sub>=5.2
 - IEEE Transactions on Big Data (SCI三区), IF<sub>24</sub>=7.5
+- [TCDS](https://mc.manuscriptcentral.com/tcds-ieee): IEEE Transactions on Cognitive and Developmental Systems (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274989), IF<sub>25</sub>=4.9
 - [TETCI]: IEEE Transactions on Emerging Topics in Computational Intelligence (SCI三区), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297), IF<sub>24</sub>=5.3
 - [MS](https://www.editorialmanager.com/mmsj/default.aspx): Multimedia Systems (SCI三区, CCF C), [Link](https://link.springer.com/journal/530), IF<sub>24</sub>=3.5
 - [MMIR](https://www2.cloud.editorialmanager.com/mmir/default2.aspx): International Journal of Multimedia Information Retrieval (SCI三区), [Link](https://www.springer.com/13735), IF<sub>24</sub>=3.6
