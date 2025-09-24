@@ -70,6 +70,7 @@ We will continue to update this repository :running::running::running:
 ## 3.1 Selected Journals and Conferences :mahjong::mahjong::mahjong:
 - CCF推荐：[国际刊物](https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/), [中文刊物](https://www.ccf.org.cn/ccftjgjxskwml/)
 - [CCF Conference Deadlines](https://ccfddl.top/)
+- [Magazine_rank](https://github.com/PetroDataAI/CV_Magazine)
 - https://twitter.com/DlCountdown
 - [LetPub最新SCI期刊影响因子查询及投稿分析系统](https://www.letpub.com.cn/index.php?page=journalapp)
 - Google 学术出版物排名[前 100 名](https://scholar.google.com.hk/citations?view_op=top_venues&hl=en)
