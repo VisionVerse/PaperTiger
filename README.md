@@ -160,18 +160,19 @@ We will continue to update this repository :running::running::running:
 - [JCC](https://www.jc2.org.cn/CN/volumn/current.shtml): 指挥与控制学报
 
 **CCF Selected Conferences**
-- CVPR, CCF A, 8页+4页参考文献
-- AAAI, CCF A, 6页+2页参考文献, 8月15日.
-- ICCV, CCF A, 
-- IJCAI, CCF A, 7页+2页参考文献
-- ACM MM, CCF A, 
-- NIPS, CCF A,
+- IJCAI, CCF A, 7页+2页参考文献, 1月左右.
+- ICML, CCA A, 1月左右.
+- ICCV, CCF A, 8页+2页参考文献, 3月左右
+- ACM MM, CCF A, 8页+2页参考文献, 4月左右.
+- NIPS, CCF A, 5月左右.
 - ICASSP, CCF B, 4页+1页参考文献, 6月~9月
+- AAAI, CCF A, 6页+2页参考文献, 8月左右.
+- CVPR, CCF A, 8页+4页参考文献, 11月左右.
 - ICPR, CCF C, CAAI B,
 - ICIP: IEEE International Conference on Image Processing,
-- ICME, CCF B,
+- ICME, CCF B, 12月左右.
 - IJCNN, CCF C,
-- PRCV, CCF C, 最长14页(含参考文献), 匿名提交
+- PRCV, CCF C, 最长14页(含参考文献).
 
 
 
