@@ -163,6 +163,7 @@ We will continue to update this repository :running::running::running:
 - IJCAI, CCF A, 7页+2页参考文献, 1月左右.
 - ICML, CCA A, 8页+参考文献、影响声明和附录页数不限，1月左右.
 - ICCV, CCF A, 8页+2页参考文献, 3月左右
+- ECCV, CCF B, 正文≤14页(不包含参考文献), 3月左右
 - ACM MM, CCF A, 8页+2页参考文献, 4月左右.
 - NIPS, CCF A, 5月左右.
 - ICASSP, CCF B, 4页+1页参考文献, 6月~9月
