@@ -231,6 +231,7 @@ We will continue to update this repository :running::running::running:
 ## 3.2 Rebuttal
 - [Rebuttal Template for CV Conference](https://github.com/guanyingc/cv_rebuttal_template)
 - [Elsevier Live Chat](https://service.elsevier.com/app/chat/chat_launch/supporthub/publishing/#opennewwindow)
+- [Paper Rebuttal Tips](https://github.com/MLNLP-World/Paper-Rebuttal-Tips)
 
 
 ## 3.3 Proofs and Pay 
