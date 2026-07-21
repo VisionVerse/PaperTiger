@@ -191,7 +191,7 @@ We will continue to update this repository :running::running::running:
 - GIScience & Remote Sensing (SCI一区 Top, OA: $2630), [Link](https://www.tandfonline.com/journals/tgrs20), IF<sub>25</sub>=6.9
 - GSIS：Geo-spatial Information Science (SCI一区, OA: $2195), [Link](http://www.tandfonline.com/TGSI), IF<sub>24</sub>=4.4
 - [TGIS](https://www.tandfonline.com/journals/tgis20): International Journal of Geographical Information Science (SCI 一区, CCF C), [Link](https://www.tandfonline.com/journals/tgis20), IF<sub>24</sub>=4.3
-- [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA: $3020), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
+- [JAG](https://www2.cloud.editorialmanager.com/jag/default2.aspx): International Journal of Applied Earth Observation and Geoinformation (SCI一区 Top, OA: $3610), [Link](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation), IF<sub>24</sub>=7.6
 - [IJDE](https://mc.manuscriptcentral.com/ijde): International Journal of Digital Earth (SCI一区, OA: $2990), [Link](https://www.tandfonline.com/journals/tjde20), IF<sub>24</sub>=3.7
 - European Journal of Remote Sensing (SCI四区, OA: $1250), [Link](https://www.tandfonline.com/journals/tejr20)
 - IGARSS: IEEE International Geoscience and Remote Sensing Symposium, [2024](https://2024.ieeeigarss.org/index.php#welcome) [2025]
