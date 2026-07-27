@@ -37,6 +37,7 @@ We will continue to update this repository :running::running::running:
 :smiley_cat:How to read papers and find ideas.
 
 - [ArXiv过去一周cs.CV文章](https://arxiv.org/list/cs.CV/pastweek)
+- [arXiv每日学术速递](https://www.arxivdaily.com/)
 
 
 
