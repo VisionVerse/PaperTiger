@@ -162,7 +162,7 @@ We will continue to update this repository :running::running::running:
 
 **CCF Selected Conferences**
 - IJCAI, ~~CCF A~~CCF B, 7页+2页参考文献, 1月左右.
-- ICML, CCA A, 8页+参考文献、影响声明和附录页数不限，1月左右.
+- ICML, CCF A, 8页+参考文献、影响声明和附录页数不限，1月左右.
 - ICCV, CCF A, 8页+2页参考文献, 3月左右.
 - ECCV, CCF B, 正文≤14页(不包含参考文献), 3月左右.
 - ACM MM, CCF A, 8页+2页参考文献, 4月左右.
