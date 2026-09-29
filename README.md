@@ -91,7 +91,7 @@ We will continue to update this repository :running::running::running:
 - [TIP](https://mc.manuscriptcentral.com/tip-ieee): IEEE Transactions on Image Processing (SCI一区 Top, CCF A), [Link](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), IF<sub>24</sub>=10.8
 - [IJCV](https://www.editorialmanager.com/visi/default.aspx): International Journal of Computer Vision (SCI二区 ~~Top~~, CCF A), [Link](https://link.springer.com/journal/11263), IF<sub>24</sub>=11.6
 - [TNNLS](https://mc.manuscriptcentral.com/tnnls): IEEE Transactions on Neural Networks and Learning Systems (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), IF<sub>24</sub>=10.2, 15页
-- [IF](https://www.editorialmanager.com/inffus/default.aspx): Information Fusion (SCI一区 Top, CCF A), [Link](https://www.sciencedirect.com/journal/information-fusion), IF<sub>24</sub>=14.7
+- [IF](https://www.editorialmanager.com/inffus/default.aspx): Information Fusion (SCI一区 Top, CCF None), [Link](https://www.sciencedirect.com/journal/information-fusion), IF<sub>24</sub>=14.7
 - [TII](https://mc.manuscriptcentral.com/tii): IEEE Transactions on Industrial Informatics (SCI一区 Top, CCF C), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424), IF<sub>24</sub>=11.7
 -
 - [TCSVT](https://mc.manuscriptcentral.com/tcsvt): IEEE Transactions on Circuits and Systems for Video Technology (SCI一区 Top, CCF B), [Link](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), IF<sub>24</sub>=8.3
